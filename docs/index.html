@@ -595,7 +595,7 @@ Description
 <p><img src="resources/imagenes/estudiantes.jpg" class="img-fluid" alt="Estudiantes"></p>
 <section id="comunidad-de-estudiantes-de-sociología" class="level3 person-name person-body">
 <h3 class="person-name anchored" data-anchor-id="comunidad-de-estudiantes-de-sociología">Comunidad de Estudiantes de Sociología</h3>
-<p><strong>Colaboradores de la comunidad</strong>.</p>
+<p><strong>Colaboradores del repositorio</strong>.</p>
 <div class="person-links">
 <p><a href="./comunidad.html" class="pill">En detalle</a></p>
 </div>
@@ -712,7 +712,7 @@ Description
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/karavena\.github\.io\/Archivo-Sociologia-UChile\/");
+        var filterRegex = new RegExp("https:\/\/apuntes-sociologia\.me");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -726,11 +726,6 @@ Description
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

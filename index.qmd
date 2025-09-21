@@ -118,7 +118,7 @@ Envía un **PR** o comparte tu archivo mediante el **formulario**.
 
 ::: {.person-body}
 ### Comunidad de Estudiantes de Sociología {.person-name}
-**Colaboradores de la comunidad**.
+**Colaboradores del repositorio**.
 
 <div class="person-links"> 
   <a href="comunidad.qmd" class="pill">En detalle</a>
