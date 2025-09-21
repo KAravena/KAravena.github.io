@@ -677,23 +677,6 @@ strong, b {
   .listing-grid.grid .g-col-12 { width: 100%; }     /* 1 por fila */
 }
 
-  /* TOC flotante a la derecha, siempre visible y completamente expandido */
-  .quarto-toc-sidebar {
-  top: 80px;
-  z-index: 1000;
-  background: #fff;
-  border-left: 1px solid #ddd;
-  overflow-y: auto;
-  height: calc(100vh - 80px);
-} /* <-- Add this closing brace */
-.quarto-toc-sidebar .collapse {
-  display: block !important;
-  visibility: visible !important;
-}
-.quarto-toc-sidebar .toc-section {
-  display: block !important;
-}
-
 /* ===== Minimal: grilla de años ===== */
 .years-min{
   display:grid; gap:12px;
@@ -851,3 +834,4 @@ strong, b {
     --fs-name:.95rem; --fs-body:.88rem; --fs-lead:.9rem;
   }
 }
+

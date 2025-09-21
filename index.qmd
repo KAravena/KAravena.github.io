@@ -38,19 +38,19 @@ Centralizamos **apuntes y materiales** curados por **año**, **semestre** y **cu
 <div class="ico">🔎</div>
 ### Guía de uso
 Usa el **buscador** y los **filtros** para encontrar apuntes por curso o año.  
-[Más información → ](/about.qmd)
+[Más información](/about.qmd)
 :::
 ::: {.feature-tile}
 <div class="ico">🧩</div>
 ### Formato de apuntes
 Estructura libre: se brinda una **síntesis**, **conceptos clave** y enlaces a más material junto a las referencías correspondientes.
-[Ver guía de formato →](/about.qmd)
+[Ver guía de formato](/about.qmd)
 :::
 ::: {.feature-tile}
 <div class="ico">🤝</div>
 ### ¿Quieres aportar?
 Envía un **PR** o comparte tu archivo mediante el **formulario**.  
-[Cómo aportar →](about.qmd)
+[Cómo aportar](about.qmd)
 :::
 :::
 

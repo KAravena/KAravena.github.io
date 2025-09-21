@@ -6,16 +6,8 @@ toc-depth: 6
 toc-float: true
 format:
   html:
-    css: styles.css
+    css: styles1.css
 ---
-
-<style>
-.justificar {
-  text-align: justify;
-}
-</style>
-
-# Repositorio de Apuntes de Sociología | U. de Chile
 
 # Información general
 
@@ -53,13 +45,17 @@ El formato del archivo subido debe ser el siguiente:
 
 </div>
 
----
-
+<!-- Separador ondulado -->
+<div class="wave-sep" aria-hidden="true">
+  <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <path d="M0,0 C200,80 400,0 600,60 800,120 1000,40 1200,80 L1200,0 L0,0 Z"></path>
+  </svg>
+</div>
 
 # Más sobre el proyecto
 
 <div class="justificar">
-Usamos **[Quarto](https://quarto.org/)** para gestionar y publicar contenidos, con despliegue automático en **GitHub Pages** (y pronto **Netlify**).
+Usamos **[Quarto](https://quarto.org/)** para gestionar y publicar contenidos, con despliegue automático en **GitHub Pages**.
 
 **Objetivos:**
 - Facilitar el acceso a **apuntes, resúmenes y bibliografía**.  
@@ -80,3 +76,4 @@ Usamos **[Quarto](https://quarto.org/)** para gestionar y publicar contenidos, c
 ---
 
 **Aprender es colectivo. Sociología que se teje en comunidad.**
+

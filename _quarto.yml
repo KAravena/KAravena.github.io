@@ -3,6 +3,7 @@ project:
   output-dir: docs      # <-- GitHub Pages servirá desde aquí
 
 website:
+  favicon: resources/imagenes/logo.svg 
   title: "Apuntes Sociología"
   site-url:  https://apuntes-sociologia.me 
   search: true
