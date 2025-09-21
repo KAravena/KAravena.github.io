@@ -1,0 +1,224 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/apuntes/anio-1/anio-1.html",
+      "/apuntes/anio-2/anio-2.html",
+      "/apuntes/anio-3/anio-3.html",
+      "/apuntes/anio-4/anio-4.html"
+    ]
+  },
+  {
+    "listing": "/apuntes/anio-1/anio-1.html",
+    "items": [
+      "/apuntes/anio-1/sem-01/Antropología/index.html",
+      "/apuntes/anio-1/sem-01/Filosofía Social/index.html",
+      "/apuntes/anio-1/sem-01/Historia de la Sociedad Moderna/index.html",
+      "/apuntes/anio-1/sem-01/Introducción a la Sociología/index.html",
+      "/apuntes/anio-1/sem-01/Psicología Social/index.html",
+      "/apuntes/anio-1/sem-02/Diseño de Investigación/index.html",
+      "/apuntes/anio-1/sem-02/Epistemología/index.html",
+      "/apuntes/anio-1/sem-02/Historia Social de América Latina/index.html",
+      "/apuntes/anio-1/sem-02/Población y Sociedad/index.html",
+      "/apuntes/anio-1/sem-02/Teoría Sociológica Clásica/index.html"
+    ]
+  },
+  {
+    "listing": "/apuntes/anio-4/anio-4.html",
+    "items": [
+      "/apuntes/anio-4/sem-07/Investigación Evaluativa/index.html",
+      "/apuntes/anio-4/sem-07/Transformaciones Sociales del Chile Contemporáneo/index.html",
+      "/apuntes/anio-4/sem-08/Electivos/index.html"
+    ]
+  },
+  {
+    "listing": "/apuntes/anio-2/anio-2.html",
+    "items": [
+      "/apuntes/anio-2/sem-03/Economía/index.html",
+      "/apuntes/anio-2/sem-03/Estadística Descriptiva/index.html",
+      "/apuntes/anio-2/sem-03/Estrategias de Investigación Cualitativa/index.html",
+      "/apuntes/anio-2/sem-03/Historia Social de Chile/index.html",
+      "/apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/index.html",
+      "/apuntes/anio-2/sem-04/Análisis de Información Cualitativa/index.html",
+      "/apuntes/anio-2/sem-04/Estadística Correlacional/index.html",
+      "/apuntes/anio-2/sem-04/Estrategias de Investigación Cuantitativa/index.html",
+      "/apuntes/anio-2/sem-04/Sociología Política/index.html",
+      "/apuntes/anio-2/sem-04/Teorías Sociológicas Contemporáneas/index.html"
+    ]
+  },
+  {
+    "listing": "/apuntes/anio-3/anio-3.html",
+    "items": [
+      "/apuntes/anio-3/sem-05/Desigualdades y Estratificación Social/index.html",
+      "/apuntes/anio-3/sem-05/Estadística Multivariada/index.html",
+      "/apuntes/anio-3/sem-05/Sociología de la Cultura/index.html",
+      "/apuntes/anio-3/sem-05/Sociología del Género/index.html",
+      "/apuntes/anio-3/sem-06/Sociología Económica/index.html",
+      "/apuntes/anio-3/sem-06/Sociología de las Políticas Públicas/index.html",
+      "/apuntes/anio-3/sem-06/Teoría y Sociedad Latinoamericana/index.html"
+    ]
+  },
+  {
+    "listing": "/cursos/cursos.html",
+    "items": [
+      "/apuntes/anio-1/sem-01/Antropología/index.html",
+      "/apuntes/anio-1/sem-01/Filosofía Social/index.html",
+      "/apuntes/anio-1/sem-01/Historia de la Sociedad Moderna/index.html",
+      "/apuntes/anio-1/sem-01/Introducción a la Sociología/index.html",
+      "/apuntes/anio-1/sem-01/Psicología Social/index.html",
+      "/apuntes/anio-1/sem-02/Diseño de Investigación/index.html",
+      "/apuntes/anio-1/sem-02/Epistemología/index.html",
+      "/apuntes/anio-1/sem-02/Historia Social de América Latina/index.html",
+      "/apuntes/anio-1/sem-02/Población y Sociedad/index.html",
+      "/apuntes/anio-1/sem-02/Teoría Sociológica Clásica/index.html",
+      "/apuntes/anio-2/sem-03/Economía/index.html",
+      "/apuntes/anio-2/sem-03/Estadística Descriptiva/index.html",
+      "/apuntes/anio-2/sem-03/Estrategias de Investigación Cualitativa/index.html",
+      "/apuntes/anio-2/sem-03/Historia Social de Chile/index.html",
+      "/apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/index.html",
+      "/apuntes/anio-2/sem-04/Análisis de Información Cualitativa/index.html",
+      "/apuntes/anio-2/sem-04/Estadística Correlacional/index.html",
+      "/apuntes/anio-2/sem-04/Estrategias de Investigación Cuantitativa/index.html",
+      "/apuntes/anio-2/sem-04/Sociología Política/index.html",
+      "/apuntes/anio-2/sem-04/Teorías Sociológicas Contemporáneas/index.html",
+      "/apuntes/anio-3/sem-05/Desigualdades y Estratificación Social/index.html",
+      "/apuntes/anio-3/sem-05/Estadística Multivariada/index.html",
+      "/apuntes/anio-3/sem-05/Sociología de la Cultura/index.html",
+      "/apuntes/anio-3/sem-05/Sociología del Género/index.html",
+      "/apuntes/anio-3/sem-06/Sociología Económica/index.html",
+      "/apuntes/anio-3/sem-06/Sociología de las Políticas Públicas/index.html",
+      "/apuntes/anio-3/sem-06/Teoría y Sociedad Latinoamericana/index.html",
+      "/apuntes/anio-4/sem-07/Investigación Evaluativa/index.html",
+      "/apuntes/anio-4/sem-07/Transformaciones Sociales del Chile Contemporáneo/index.html",
+      "/apuntes/anio-4/sem-08/Electivos/index.html"
+    ]
+  },
+  {
+    "listing": "/apuntes/apuntes.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-01/Antropología/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-4/sem-07/Transformaciones Sociales del Chile Contemporáneo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-06/Teoría y Sociedad Latinoamericana/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-06/Sociología de las Políticas Públicas/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-05/Sociología de la Cultura/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-05/Desigualdades y Estratificación Social/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-04/Sociología Política/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-04/Estadística Correlacional/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-03/Historia Social de Chile/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-03/Estadística Descriptiva/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-02/Teoría Sociológica Clásica/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-02/Historia Social de América Latina/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-02/Diseño de Investigación/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-01/Introducción a la Sociología/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-01/Filosofía Social/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-01/Historia de la Sociedad Moderna/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-01/Psicología Social/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-02/Epistemología/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-1/sem-02/Población y Sociedad/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-03/Economía/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-03/Estrategias de Investigación Cualitativa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-03/Inglés III/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-04/Análisis de Información Cualitativa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-04/Estrategias de Investigación Cuantitativa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-2/sem-04/Teorías Sociológicas Contemporáneas/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-05/Estadística Multivariada/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-05/Sociología del Género/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-3/sem-06/Sociología Económica/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-4/sem-07/Investigación Evaluativa/index.html",
+    "items": []
+  },
+  {
+    "listing": "/apuntes/anio-4/sem-08/Electivos/index.html",
+    "items": []
+  }
+]

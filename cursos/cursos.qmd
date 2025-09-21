@@ -1,0 +1,134 @@
+---
+title: "Apuntes por Año y Semestre"
+page-layout: full
+toc: false
+
+listing:
+  # 1° año
+  - id: a1s1
+    contents: ["../apuntes/anio-1/sem-01/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+  - id: a1s2
+    contents: ["../apuntes/anio-1/sem-02/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+
+  # 2° año
+  - id: a2s1
+    contents: ["../apuntes/anio-2/sem-03/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+  - id: a2s2
+    contents: ["../apuntes/anio-2/sem-04/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+
+  # 3° año
+  - id: a3s1
+    contents: ["../apuntes/anio-3/sem-05/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+  - id: a3s2
+    contents: ["../apuntes/anio-3/sem-06/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+
+  # 4° año
+  - id: a4s1
+    contents: ["../apuntes/anio-4/sem-07/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+  - id: a4s2
+    contents: ["../apuntes/anio-4/sem-08/*/index.qmd"]
+    type: grid
+    sort: title
+    categories: false
+    fields: [image, title, description]
+---
+
+# Apuntes por ramo
+
+::: {.anio-grid .container}
+
+::: {.row .g-4 .mb-5}
+::: {.col-12}
+## 1° Año
+:::
+::: {.col-12 .col-lg-6}
+### I Semestre
+::: {#a1s1}
+:::
+:::
+::: {.col-12 .col-lg-6}
+### II Semestre
+::: {#a1s2}
+:::
+:::
+:::
+
+::: {.row .g-4 .mb-5}
+::: {.col-12}
+## 2° Año
+:::
+::: {.col-12 .col-lg-6}
+### I Semestre
+::: {#a2s1}
+:::
+:::
+::: {.col-12 .col-lg-6}
+### II Semestre
+::: {#a2s2}
+:::
+:::
+:::
+
+::: {.row .g-4 .mb-5}
+::: {.col-12}
+## 3° Año
+:::
+::: {.col-12 .col-lg-6}
+### I Semestre
+::: {#a3s1}
+:::
+:::
+::: {.col-12 .col-lg-6}
+### II Semestre
+::: {#a3s2}
+:::
+:::
+:::
+
+::: {.row .g-4 .mb-5}
+::: {.col-12}
+## 4° Año
+:::
+::: {.col-12 .col-lg-6}
+### I Semestre
+::: {#a4s1}
+:::
+:::
+::: {.col-12 .col-lg-6}
+### Electivos
+::: {#a4s2}
+:::
+:::
+
+
+:::
+
+

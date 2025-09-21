@@ -1,0 +1,26 @@
+---
+title: "Teorías Sociológicas Contemporáneas"
+description: "Síntesis, conceptos clave y bibliografía."
+categories: [anio-2, sem-04]
+image: /resources/imagenes/cursos/teorias-sociologicas-contemporaneas.jpg
+title-block-banner: true
+page-layout: full
+
+listing:
+  - id: apuntes-curso
+    contents:
+      - "*.qmd"
+      - "!index.qmd"
+    type: table
+    sort: "date desc"
+    fields: [title, author, date, description]
+    filter-ui: true
+    sort-ui: true
+---
+
+## Sobre este curso
+Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).
+
+### Apuntes del curso
+::: {#apuntes-curso}
+:::

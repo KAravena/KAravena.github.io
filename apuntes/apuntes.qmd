@@ -1,0 +1,24 @@
+---
+title: "Apuntes"
+page-layout: full
+toc: false
+
+# Listado único con todo el contenido bajo /apuntes
+listing:
+  - id: todos-apuntes
+    contents:
+      - apuntes/**/**/*.qmd     # toma todos los .qmd en subcarpetas
+      - "!apuntes/apuntes.qmd"  # excluye esta misma página
+      - "!**/index.qmd"         # excluye index de subcarpetas
+    type: grid
+    sort: "title"
+    categories: true            # mostrará etiquetas si tus notas tienen "categories:"
+    filter-ui: true             # activa buscador + filtros
+    fields: [image, title, description, categories]
+    image-height: 120px
+---
+
+# Apuntes
+
+::: {#todos-apuntes}
+:::

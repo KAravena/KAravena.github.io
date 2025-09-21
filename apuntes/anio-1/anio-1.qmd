@@ -1,0 +1,41 @@
+---
+title: "1° Año"
+page-layout: full
+
+listing:
+  - id: sem01
+    contents:
+      - "sem-01/*/index.qmd"   # ← relativo a este archivo
+    type: grid
+    sort: "title"
+    categories: false
+    fields: [image, title, description]
+    # image-placeholder: "/resources/imagenes/placeholder.png"  # opcional
+
+  - id: sem02
+    contents:
+      - "sem-02/*/index.qmd"
+    type: grid
+    sort: "title"
+    categories: false
+    fields: [image, title, description]
+    # image-placeholder: "/resources/imagenes/placeholder.png"
+---
+
+# 1° Año
+
+<div class="anio-grid row g-4">
+
+<div class="col-12 col-lg-6">
+## I Semestre
+::: {#sem01}
+:::
+</div>
+
+<div class="col-12 col-lg-6">
+## II Semestre
+::: {#sem02}
+:::
+</div>
+
+</div>
