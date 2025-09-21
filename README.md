@@ -1,10 +1,5 @@
 # 📚 Repositorio de Apuntes de Sociología | U. de Chile
 
-**Sitio actual**: [karavena.github.io/Proj_sociorepo](https://karavena.github.io/Archivo-Sociologia-UChile/)  
-*(el acceso definitivo se migrará a un dominio propio o institucional más adelante).*
-
----
-
 ## Descripción del proyecto
 Este repositorio centraliza **apuntes y materiales de Sociología** de la Universidad de Chile, organizados por **año**, **semestre** y **curso**.  
 
@@ -49,3 +44,4 @@ Si quieres aportar o colaborar:
 
 ---
 **Aprender es colectivo. Sociología que se teje en comunidad.**
+
