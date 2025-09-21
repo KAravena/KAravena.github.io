@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Apuntes Sociología"
-  site-url:  https://karavena.github.io/Archivo-Sociologia-UChile/
+  site-url:  https://apuntes-sociologia.me 
   search: true
   page-navigation: true
   navbar:
@@ -41,7 +41,7 @@ format:
       dark: darkly
     css:
       - styles.css
-    link-external-newwindow: true
+    link-external-newwindow: false
     anchor-sections: true
     smooth-scroll: true
     code-copy: true
