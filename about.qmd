@@ -17,10 +17,6 @@ format:
 
 # Repositorio de Apuntes de Sociología | U. de Chile
 
-**Sitio actual**: [karavena.github.io/Archivo-Sociologia-UChile](https://karavena.github.io/Archivo-Sociologia-UChile/)  
-*(el acceso definitivo se migrará a otro dominio propio).*
-
-
 # Información general
 
 <div class="justificar">

@@ -296,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
-    <a href="https://github.com/KAravena/Archivo-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/KAravena/Repositorio-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
     <a href="javascript:void(0)" title="<i class='bi bi-moon-stars'></i>" class="quarto-navigation-tool px-1" aria-label="Cambiar tema"><i class="bi bi-"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -351,8 +351,6 @@ ul.task-list li input[type="checkbox"] {
 </style>
 <section id="repositorio-de-apuntes-de-sociología-u.-de-chile" class="level1">
 <h1>Repositorio de Apuntes de Sociología | U. de Chile</h1>
-<p><strong>Sitio actual</strong>: <a href="https://karavena.github.io/Archivo-Sociologia-UChile/">karavena.github.io/Archivo-Sociologia-UChile</a><br>
-<em>(el acceso definitivo se migrará a otro dominio propio).</em></p>
 </section>
 <section id="información-general" class="level1">
 <h1>Información general</h1>
@@ -497,7 +495,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/karavena\.github\.io\/Archivo-Sociologia-UChile\/");
+        var filterRegex = new RegExp("https:\/\/apuntes-sociologia\.me");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -511,11 +509,6 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -27,7 +27,7 @@ website:
     
     tools:
       - icon: github
-        href: https://github.com/KAravena/Archivo-Sociologia-UChile # ← reemplaza por tu repo
+        href: https://github.com/KAravena/Repositorio-Sociologia-UChile # ← reemplaza por tu repo
         aria-label: GitHub
       - text: "<i class='bi bi-moon-stars'></i>"
         href: "javascript:void(0)"
