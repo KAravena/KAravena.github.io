@@ -1,0 +1,86 @@
+---
+title: "Sobre la comunidad"
+toc: true
+toc-location: right
+toc-depth: 6
+toc-float: true
+format:
+  html:
+    css: styles.css
+---
+
+<style>
+.justificar {
+  text-align: justify;
+}
+</style>
+
+# Repositorio de Apuntes de Sociología | U. de Chile
+
+**Sitio actual**: [karavena.github.io/Archivo-Sociologia-UChile](https://karavena.github.io/Archivo-Sociologia-UChile/)  
+*(el acceso definitivo se migrará a otro dominio propio).*
+
+
+# Información general
+
+<div class="justificar">
+
+Este repositorio reúne apuntes y materiales hechos por estudiantes de Sociología de la U. de Chile. La idea es simple: que los increíbles materiales que vamos produciendo no se pierdan y queden disponible para quienes vienen después. Un repositorio por y para los estudiantes y comunidad de sociología. Aquí te contamos cómo usar el sitio, cómo estamos organizando los aportes y cómo sumarte.
+
+</div>
+
+# Guía de uso
+
+<div class="justificar">
+En Apuntes puedes buscar y filtrar por año, semestre o curso. Cada nota trae título y una breve descripción; cuando corresponde, también categorías para facilitar la navegación.  
+</div>
+
+# Sobre los apuntes 
+
+<div class="justificar">
+Los apuntes representan el corazón del repositorio. La idea es que cada apunte quede referenciado de forma adecuada (apa 7) como parte de la memoria y construcción de una comunidad transparente y colaborativa. El formato lo define quien aporta, puede ser una presentación de ayudantías, apuntes de textos, resúmenes de clases, preparación de evaluaciones,etc.  Valoramos la diversidad de estilos y la voz propia. Lo importante es que el apunte sea útil y legible.
+</div>
+
+# ¿Quieres aportar?
+
+<div class="justificar">
+Este espacio crece con los aportes de la comunidad de sociología, puedes hacerlo así:
+
+- Subiendo tu archivo mediante el formulario (cuando esté disponible) o en la carpeta (drive) compartida -pedir al mail del equipo-. Esta carpeta cuenta con un archivo Excel para completar la información de los colaboradores en la pestaña Comunidad de la página, con el fin de poder facilitar el contacto. 
+
+El formato del archivo subido debe ser el siguiente:
+
+- [Ramo]_[año]_[Tema]_[Apellido_Nombre].ext
+- Aceptamos PDF, .qmd, .pptx, .docx, etc. (ideal **PDF** para lectura web).
+
+        Por ejemplo: FilosofíaSocial_2022_prueba1_Aravena_Katherine.pdf
+
+</div>
+
+---
+
+
+# Más sobre el proyecto
+
+<div class="justificar">
+Usamos **[Quarto](https://quarto.org/)** para gestionar y publicar contenidos, con despliegue automático en **GitHub Pages** (y pronto **Netlify**).
+
+**Objetivos:**
+- Facilitar el acceso a **apuntes, resúmenes y bibliografía**.  
+- Fomentar la **colaboración** y el trabajo colectivo.  
+- Construir **conocimiento en común** como parte del aprendizaje universitario.  
+- Asegurar que materiales valiosos queden disponibles para nuevas generaciones.  
+
+**Disclaimer:** esto **no reemplaza el estudio personal ni la elaboración de apuntes propios**. Buscamos **conservar**, **complementar** y **ofrecer** un recurso colectivo. Cada estudiante sigue siendo responsable de su propio aprendizaje, solo que ahora lo hacemos en conjunto.
+
+</div>
+
+
+
+ - Cualquier comentario, sugerencia o peticion contactarse con el equipo: 
+
+<div class="person-links"> <a href="index.qmd#equipo" class="pill">Equipo</a> </div>
+
+---
+
+**Aprender es colectivo. Sociología que se teje en comunidad.**

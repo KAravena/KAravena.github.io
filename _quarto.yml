@@ -1,0 +1,105 @@
+project:
+  type: website
+  output-dir: docs      # <-- GitHub Pages servirá desde aquí
+
+website:
+  title: "Apuntes Sociología"
+  site-url:  https://karavena.github.io/Archivo-Sociologia-UChile/
+  search: true
+  page-navigation: true
+  navbar:
+    title: false
+    logo: resources/imagenes/logo.svg
+    logo-alt: "Apuntes Sociología"
+    logo-href: /  
+    left:
+      - text: "Cursos"
+        href: cursos/cursos.qmd  
+      - text: "Destacados"
+        href: index.qmd#destacados
+      - text: "Apuntes por año"
+        href: index.qmd#Año
+      - text: "Comunidad"
+        href: comunidad.qmd
+      - text: "Información"
+        href: about.qmd
+
+    
+    tools:
+      - icon: github
+        href: https://github.com/KAravena/Archivo-Sociologia-UChile # ← reemplaza por tu repo
+        aria-label: GitHub
+      - text: "<i class='bi bi-moon-stars'></i>"
+        href: "javascript:void(0)"
+        aria-label: Cambiar tema
+
+format:
+  html:
+    md-extensions: +raw_html+fenced_divs+link_attributes
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - styles.css
+    link-external-newwindow: true
+    anchor-sections: true
+    smooth-scroll: true
+    code-copy: true
+
+freeze: auto
+
+include-in-header:
+  - text: |
+      <!-- Aplica el esquema guardado ANTES de cargar estilos (evita flash) -->
+      <script>
+      (function(){
+        try{
+          var saved = localStorage.getItem('quarto-color-scheme');
+          if (saved === 'dark' || saved === 'light') {
+            document.documentElement.setAttribute('data-bs-theme', saved);
+          }
+        }catch(e){}
+      })();
+      </script>
+      <!-- Google Fonts -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+
+include-after-body:
+  - text: |
+      <!-- Toggle claro/oscuro (usa Quarto si existe; si no, fallback manual) -->
+      <script>
+      (function() {
+        function setScheme(scheme) {
+          const html = document.documentElement;
+          html.setAttribute('data-bs-theme', scheme);
+          try { localStorage.setItem('quarto-color-scheme', scheme); } catch(e){}
+        }
+        function getScheme() {
+          try { return localStorage.getItem('quarto-color-scheme'); } catch(e){ return null; }
+        }
+        // Aplica preferencia guardada si hubiese (por si entran sin recargar)
+        const saved = getScheme();
+        if (saved) { document.documentElement.setAttribute('data-bs-theme', saved); }
+
+        document.addEventListener('DOMContentLoaded', function(){
+          const triggers = document.querySelectorAll('.quarto-navbar-tools a[aria-label="Cambiar tema"]');
+          triggers.forEach(function(a){
+            a.addEventListener('click', function(e){
+              e.preventDefault();
+              if (window.quartoToggleColorScheme) {
+                // Mecanismo nativo de Quarto (cambia light/dark y Bootstrap)
+                window.quartoToggleColorScheme();
+              } else {
+                // Fallback: alterna atributo y guarda preferencia
+                const html = document.documentElement;
+                const current = html.getAttribute('data-bs-theme') || 'light';
+                const next = current === 'dark' ? 'light' : 'dark';
+                setScheme(next);
+              }
+            });
+          });
+        });
+      })();
+      </script>

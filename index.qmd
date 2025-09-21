@@ -1,0 +1,153 @@
+---
+title: "Repositorio de Apuntes de Sociología"
+pagetitle: "Apuntes Sociología U. de Chile"
+title-block: true 
+page-layout: full
+toc: false
+
+listing:
+  - id: ultimos-apuntes
+    contents:
+      - apuntes/*/*.qmd
+    sort: "date desc"
+    type: table
+    max-items: 6
+    fields: [title, categories, date, description]
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: false
+---
+
+::: {.hero .hero-anim .text-white}
+# Repositorio de Apuntes de Sociología | U. de Chile
+Centralizamos **apuntes y materiales** curados por **año**, **semestre** y **curso**.  
+**Aprender es colectivo, Sociología que se teje en comunidad.**
+
+[Ver Apuntes](cursos/cursos.qmd){.btn .btn-primario .btn-lg}
+[Todos](apuntes/apuntes.qmd){.btn .btn-secundario .btn-lg}
+[About](about.qmd){.btn .btn-borde .btn-lg}
+:::
+
+
+
+## Destacados {#destacados}
+
+::: {.features-grid}
+::: {.feature-tile}
+<div class="ico">🔎</div>
+### Guía de uso
+Usa el **buscador** y los **filtros** para encontrar apuntes por curso o año.  
+[Más información → ](/about.qmd)
+:::
+::: {.feature-tile}
+<div class="ico">🧩</div>
+### Formato de apuntes
+Estructura libre: se brinda una **síntesis**, **conceptos clave** y enlaces a más material junto a las referencías correspondientes.
+[Ver guía de formato →](/about.qmd)
+:::
+::: {.feature-tile}
+<div class="ico">🤝</div>
+### ¿Quieres aportar?
+Envía un **PR** o comparte tu archivo mediante el **formulario**.  
+[Cómo aportar →](about.qmd)
+:::
+:::
+
+## Apuntes por año {#Año}
+
+::: {.years-min}
+
+::: {.year-min}
+<div class="badge-year">
+  <a class="cover" href="/apuntes/anio-1/anio-1.qmd" aria-label="Ir a 1° año"></a>
+  <h3>1° año</h3>
+  <p>Fundamentos comunes.</p>
+</div>
+:::
+
+::: {.year-min}
+<div class="badge-year">
+  <a class="cover" href="/apuntes/anio-2/anio-2.qmd" aria-label="Ir a 2° año"></a>
+  <h3>2° año</h3>
+  <p>Teoría y métodos.</p>
+</div>
+:::
+
+::: {.year-min}
+<div class="badge-year">
+  <a class="cover" href="/apuntes/anio-3/anio-3.qmd" aria-label="Ir a 3° año"></a>
+  <h3>3° año</h3>
+  <p>Profundización.</p>
+</div>
+:::
+
+::: {.year-min}
+<div class="badge-year">
+  <a class="cover" href="/apuntes/anio-4/anio-4.qmd" aria-label="Ir a 4° año y electivos"></a>
+  <h3>4° año & electivos</h3>
+  <p>Integración y grado.</p>
+</div>
+:::
+
+:::
+
+
+::: {.banda .oscura}
+::: {.container}
+### Últimos apuntes {#ultimos .text-white}
+[Ver todos](apuntes/){.btn .btn-borde-claro .btn-sm}
+
+::: {#ultimos-apuntes}
+:::
+:::
+:::
+
+::: {.section-title}
+
+::: {.section-title}
+
+
+### Equipo {#equipo}
+:::
+
+::: {.people-grid}
+
+::: {.person-card markdown="1"}
+![](resources/imagenes/estudiantes.jpg){alt="Estudiantes"}
+
+::: {.person-body}
+### Comunidad de Estudiantes de Sociología {.person-name}
+**Colaboradores de la comunidad**.
+
+<div class="person-links"> 
+  <a href="comunidad.qmd" class="pill">En detalle</a>
+</div>
+:::
+:::
+
+::: {.person-card markdown="1"}
+![](resources/imagenes/Chamita.jpg){alt="chamita"}
+
+::: {.person-body}
+### Chamita {.person-name}
+**Investigadora prrtativa**.
+
+:::
+:::
+
+::: {.person-card markdown="1"}
+![](resources/imagenes/KAravena.jpg){alt="Katherine Aravena Herrera"}
+
+::: {.person-body}
+### Katherine Aravena Herrera {.person-name}
+Estudiante de sociología.
+ 
+
+<div class="person-links">
+  <a href="mailto:katherine.aravena@ug.uchile.cl" class="pill">Email</a>
+  <a href="https://www.linkedin.com/in/katherine-aravena-herrera-791a2933b/" target="_blank" rel="noopener" class="pill">Contacto</a>
+  <a href="https://github.com/KAravena" target="_blank" rel="noopener" class="pill">GitHub</a>
+</div>
+:::
+:::
