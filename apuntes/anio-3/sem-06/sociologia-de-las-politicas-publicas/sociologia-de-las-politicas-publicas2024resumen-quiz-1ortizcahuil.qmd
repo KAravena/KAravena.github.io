@@ -1,0 +1,38 @@
+---
+title: "Sociología de las Políticas Públicas_2024_Resumen quiz 1_Ortiz_Cahuil.pdf"
+page-layout: article
+toc: false
+categories: ["Sociología De Las Políticas Públicas", "2024"]
+description: "Sociología De Las Políticas Públicas — Resumen Quiz 1. PDF aportado por Ortiz Cahuil."
+date: 2025-09-23
+author: ["Ortiz, C."]
+format:
+  html:
+    css: "../../../Styles_A.css"
+    code-fold: false
+---
+
+::: {.page-surface}
+
+~~~{=html}
+<div class="box-apa">
+  <div class="box-apa-head">
+    <span class="box-apa-kicker">Referencia (APA 7)</span>
+  </div>
+  <div class="box-apa-body">
+    Ortiz, C. (2024). <em>Sociología De Las Políticas Públicas: Resumen Quiz 1</em> [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.
+  </div>
+</div>
+~~~
+
+**Curso:** Sociología De Las Políticas Públicas  
+**Año:** 2024  
+**Archivo PDF:** [Sociología de las Políticas Públicas_2024_Resumen quiz 1_Ortiz_Cahuil.pdf](/resources/apuntes_Listos/Sociolog%C3%ADa%20de%20las%20Pol%C3%ADticas%20P%C3%BAblicas_2024_Resumen%20quiz%201_Ortiz_Cahuil.pdf)
+
+---
+
+### Vista del documento
+
+<iframe src="/resources/apuntes_Listos/Sociolog%C3%ADa%20de%20las%20Pol%C3%ADticas%20P%C3%BAblicas_2024_Resumen%20quiz%201_Ortiz_Cahuil.pdf" width="100%" height="720" style="border:1px solid var(--borde); border-radius:12px;"></iframe>
+
+:::

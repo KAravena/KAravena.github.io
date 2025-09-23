@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Síntesis, conceptos clave y bibliografía.">
+<meta name="description" content="Síntesis, resúmenes y apuntes del ramo.">
 
 <title>Economía – Apuntes Sociología</title>
 <style>
@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../../">
+<link href="../../../../resources/imagenes/logo.svg" rel="icon" type="image/svg+xml">
 <script src="../../../../site_libs/quarto-listing/list.min.js"></script>
 <script src="../../../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../../../site_libs/quarto-html/quarto.js" type="module"></script>
@@ -85,9 +86,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -335,7 +336,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../cursos.qmd"> 
+    <a class="nav-link" href="../../../../cursos/cursos.html"> 
 <span class="menu-text">Cursos</span></a>
   </li>  
   <li class="nav-item">
@@ -343,17 +344,21 @@ window.Quarto = {
 <span class="menu-text">Destacados</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html#malla"> 
-<span class="menu-text">Año</span></a>
+    <a class="nav-link" href="../../../../index.html#Año"> 
+<span class="menu-text">Apuntes por año</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html#ultimos"> 
-<span class="menu-text">Últimos</span></a>
+    <a class="nav-link" href="../../../../comunidad.html"> 
+<span class="menu-text">Comunidad</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../about.html"> 
+<span class="menu-text">Información</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
-    <a href="https://github.com/KAravena/Archivo-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/KAravena/Repositorio-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
     <a href="javascript:void(0)" title="<i class='bi bi-moon-stars'></i>" class="quarto-navigation-tool px-1" aria-label="Cambiar tema"><i class="bi bi-"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -367,7 +372,7 @@ window.Quarto = {
       <h1 class="title">Economía</h1>
                   <div>
         <div class="description">
-          Síntesis, conceptos clave y bibliografía.
+          Síntesis, resúmenes y apuntes del ramo.
         </div>
       </div>
                           <div class="quarto-categories">
@@ -398,28 +403,90 @@ window.Quarto = {
 
 
 
-<section id="sobre-este-curso" class="level2">
-<h2 class="anchored" data-anchor-id="sobre-este-curso">Sobre este curso</h2>
-<p>Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).</p>
 <section id="apuntes-del-curso" class="level3">
 <h3 class="anchored" data-anchor-id="apuntes-del-curso">Apuntes del curso</h3>
 <div id="listing-apuntes-curso" class="quarto-listing quarto-listing-container-table">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-apuntes-curso-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-apuntes-curso'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table caption-top">
+<table class="quarto-listing-table table">
 <thead>
-<tr class="header">
-<th data-quarto-table-cell-role="th">Title</th>
-<th data-quarto-table-cell-role="th">Author</th>
-<th data-quarto-table-cell-role="th">Date</th>
-<th data-quarto-table-cell-role="th">Description</th>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+Description
+</th>
+
 </tr>
 </thead>
 <tbody class="list">
+
+<tr data-index="0" data-categories="RWNvbm9taWElMkMyMDI1" data-listing-date-sort="1758510000000" data-listing-file-modified-sort="1758577192021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99" data-listing-title-sort="Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf" data-listing-filename-sort="economia2025introduccion-a-la-economia-y-teoria-del-valor-smitharavena-katherine-y-monreal-sebastian.qmd">
+<td>
+<a href="../../../../apuntes/anio-2/sem-03/Economía/economia2025introduccion-a-la-economia-y-teoria-del-valor-smitharavena-katherine-y-monreal-sebastian.html" class="title listing-title">Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf</a>
+</td>
+<td>
+<span class="listing-author">Aravena, K., Monreal, S.</span>
+</td>
+<td>
+<span class="listing-date">Sep 22, 2025</span>
+</td>
+<td>
+<span class="listing-description">Economia — Introducción A La Economía Y Teoría Del Valor Smith. PDF aportado por Aravena Katherine, Monreal Sebastian.</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="RWNvbm9taWElMkMyMDI1" data-listing-date-sort="1758510000000" data-listing-file-modified-sort="1758577143401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67" data-listing-title-sort="Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf" data-listing-filename-sort="economia2025marxismoaravena-katherine-y-monreal-sebastian.qmd">
+<td>
+<a href="../../../../apuntes/anio-2/sem-03/Economía/economia2025marxismoaravena-katherine-y-monreal-sebastian.html" class="title listing-title">Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf</a>
+</td>
+<td>
+<span class="listing-author">Aravena, K., Monreal, S.</span>
+</td>
+<td>
+<span class="listing-date">Sep 22, 2025</span>
+</td>
+<td>
+<span class="listing-description">Economia — Marxismo. PDF aportado por Aravena Katherine, Monreal Sebastian.</span>
+</td>
+
+</tr>
+
 </tbody>
 </table>
 <div class="listing-no-matching d-none">No matching items</div>
@@ -427,7 +494,6 @@ window.Quarto = {
 
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -517,7 +583,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/karavena\.github\.io\/Archivo-Sociologia-UChile\/");
+        var filterRegex = new RegExp("https:\/\/apuntes-sociologia\.me");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -531,11 +597,6 @@ window.Quarto = {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

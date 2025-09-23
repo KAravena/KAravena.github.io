@@ -1,6 +1,6 @@
 ---
 title: "Electivos"
-description: "Copilación de apuntes, resumenes y material de los diversos electivos de la carrera."
+description: "Síntesis, resúmenes y apuntes del ramo."
 categories: [anio-4, sem-07]
 image: /resources/imagenes/cursos/Electivos.jpg
 title-block-banner: true
@@ -17,9 +17,6 @@ listing:
     filter-ui: true
     sort-ui: true
 ---
-
-## Sobre este curso
-Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).
 
 ### Apuntes del curso
 ::: {#apuntes-curso}

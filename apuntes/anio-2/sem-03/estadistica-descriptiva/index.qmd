@@ -1,0 +1,23 @@
+---
+title: "Estadística Descriptiva"
+description: "Síntesis, resúmenes y apuntes del ramo."
+categories: [anio-2, sem-03]
+image: /resources/imagenes/cursos/estadistica-descriptiva.jpg
+title-block-banner: true
+page-layout: full
+
+listing:
+  - id: apuntes-curso
+    contents:
+      - "*.qmd"
+      - "!index.qmd"
+    type: table
+    sort: "date desc"
+    fields: [title, author, date, description]
+    filter-ui: true
+    sort-ui: true
+---
+
+### Apuntes del curso
+::: {#apuntes-curso}
+:::

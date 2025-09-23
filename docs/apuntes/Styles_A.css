@@ -1,0 +1,91 @@
+/* ===== Recuadro elegante para cita APA — SIEMPRE DESPLEGADA ===== */
+.box-apa{
+  border: 1px solid var(--borde);
+  border-radius: 14px;
+  background:
+    radial-gradient(120% 120% at 0% 0%, rgba(161,77,160,.06), transparent 55%),
+    radial-gradient(120% 120% at 100% 100%, rgba(145,196,242,.06), transparent 55%),
+    var(--superficie);
+  box-shadow: 0 10px 24px var(--sombra);
+  margin: 1rem 0 1.2rem;
+  overflow: hidden; /* mantiene las esquinas redondeadas */
+}
+
+/* Cabecera con título fijo + nombre de archivo a la derecha */
+.box-apa-head{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+  padding: .65rem .9rem;
+  border-bottom: 1px solid var(--borde);
+  background: linear-gradient(135deg, rgba(126,31,134,.12), rgba(161,77,160,.10));
+}
+
+/* Texto “Referencia (APA 7)” */
+.box-apa-kicker{
+  font-weight: 800;
+  letter-spacing: .2px;
+  color: #3a3452;
+  white-space: nowrap;
+}
+
+/* Título/nombre del archivo en la cabecera */
+.box-apa-title{
+  margin-left: auto;
+  font-weight: 700;
+  color: #3a3452;
+  background: rgba(255,255,255,.65);
+  border: 1px solid var(--borde);
+  padding: .28rem .55rem;
+  border-radius: 10px;
+  line-height: 1.2;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Cuerpo SIEMPRE visible (sin transiciones de “slide”) */
+.box-apa-body{
+  display: block !important;
+  max-height: none !important;
+  opacity: 1 !important;
+  padding: .9rem 1rem;
+  line-height: 1.6;
+  color: var(--texto);
+  transition: none !important;
+}
+
+/* Por si algún tema global aplicaba estilos de “accordion” */
+.box-apa, .box-apa *{
+  transition: none !important;
+}
+
+/* Modo oscuro coherente */
+:root[data-bs-theme="dark"] .box-apa,
+.quarto-dark .box-apa{
+  background:
+    radial-gradient(120% 120% at 0% 0%, rgba(161,77,160,.14), transparent 55%),
+    radial-gradient(120% 120% at 100% 100%, rgba(145,196,242,.12), transparent 55%),
+    var(--superficie);
+  box-shadow: 0 12px 30px var(--sombra);
+}
+
+:root[data-bs-theme="dark"] .box-apa-head,
+.quarto-dark .box-apa-head{
+  background: linear-gradient(135deg, rgba(126,31,134,.22), rgba(161,77,160,.18));
+  border-bottom-color: var(--borde);
+}
+
+:root[data-bs-theme="dark"] .box-apa-kicker,
+.quarto-dark .box-apa-kicker{
+  color: #f5f7fb;
+}
+
+:root[data-bs-theme="dark"] .box-apa-title,
+.quarto-dark .box-apa-title{
+  color: #f5f7fb;
+  background: rgba(255,255,255,.06);
+  border-color: var(--borde);
+}

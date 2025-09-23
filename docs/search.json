@@ -11,7 +11,7 @@
     "href": "index.html#destacados",
     "title": "Repositorio de Apuntes de Sociología",
     "section": "Destacados",
-    "text": "Destacados\n\n\n\n🔎\n\n\nGuía de uso\nUsa el buscador y los filtros para encontrar apuntes por curso o año.\nMás información\n\n\n\n\n🧩\n\n\nFormato de apuntes\nEstructura libre: se brinda una síntesis, conceptos clave y enlaces a más material junto a las referencías correspondientes. Ver guía de formato\n\n\n\n\n🤝\n\n\n¿Quieres aportar?\nEnvía un PR o comparte tu archivo mediante el formulario.\nCómo aportar"
+    "text": "Destacados\n\n\n\n🔎\n\n\nGuía de uso\nUsa el buscador y los filtros para encontrar apuntes por curso o año.\nMás información\n\n\n\n\n🧩\n\n\nFormato de apuntes\nEstructura libre: se brindan resumenes, síntesis y enlaces a más material con las referencías correspondientes. Ver guía de formato\n\n\n\n\n🤝\n\n\n¿Quieres aportar?\nComparte tu archivo mediante un formulario o el drive del repositorio.\nCómo aportar"
   },
   {
     "objectID": "index.html#malla",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "Sobre la comunidad",
     "section": "",
-    "text": "Información general\n\nEste repositorio reúne apuntes y materiales hechos por estudiantes de Sociología de la U. de Chile. La idea es simple: que los increíbles materiales que vamos produciendo no se pierdan y queden disponible para quienes vienen después. Un repositorio por y para los estudiantes y comunidad de sociología. Aquí te contamos cómo usar el sitio, cómo estamos organizando los aportes y cómo sumarte.\n\n\n\nGuía de uso\n\nEn Apuntes puedes buscar y filtrar por año, semestre o curso. Cada nota trae título y una breve descripción; cuando corresponde, también categorías para facilitar la navegación.\n\n\n\nSobre los apuntes\n\nLos apuntes representan el corazón del repositorio. La idea es que cada apunte quede referenciado de forma adecuada (apa 7) como parte de la memoria y construcción de una comunidad transparente y colaborativa. El formato lo define quien aporta, puede ser una presentación de ayudantías, apuntes de textos, resúmenes de clases, preparación de evaluaciones,etc. Valoramos la diversidad de estilos y la voz propia. Lo importante es que el apunte sea útil y legible.\n\n\n\n¿Quieres aportar?\n\nEste espacio crece con los aportes de la comunidad de sociología, puedes hacerlo así:\n\nSubiendo tu archivo mediante el formulario (cuando esté disponible) o en la carpeta (drive) compartida -pedir al mail del equipo-. Esta carpeta cuenta con un archivo Excel para completar la información de los colaboradores en la pestaña Comunidad de la página, con el fin de poder facilitar el contacto.\n\nEl formato del archivo subido debe ser el siguiente:\n\n[Ramo][año][Tema]_[Apellido_Nombre].ext\nAceptamos PDF, .qmd, .pptx, .docx, etc. (ideal PDF para lectura web).\n  Por ejemplo: FilosofíaSocial_2022_prueba1_Aravena_Katherine.pdf\n\n\n\n\n  \n\n\n\nMás sobre el proyecto\n\nUsamos Quarto para gestionar y publicar contenidos, con despliegue automático en GitHub Pages.\nObjetivos: - Facilitar el acceso a apuntes, resúmenes y bibliografía.\n- Fomentar la colaboración y el trabajo colectivo.\n- Construir conocimiento en común como parte del aprendizaje universitario.\n- Asegurar que materiales valiosos queden disponibles para nuevas generaciones.\nDisclaimer: esto no reemplaza el estudio personal ni la elaboración de apuntes propios. Buscamos conservar, complementar y ofrecer un recurso colectivo. Cada estudiante sigue siendo responsable de su propio aprendizaje, solo que ahora lo hacemos en conjunto.\n\n\nCualquier comentario, sugerencia o peticion contactarse con el equipo:\n\n\nEquipo\n\n\nAprender es colectivo. Sociología que se teje en comunidad."
+    "text": "Información general\n\nEste repositorio reúne apuntes y materiales hechos por estudiantes de Sociología de la U. de Chile. La idea es simple: que los increíbles materiales que vamos produciendo no se pierdan y queden disponible para quienes vienen después. Un repositorio por y para los estudiantes y comunidad de sociología. Aquí te contamos cómo usar el sitio, cómo estamos organizando los aportes y cómo sumarte.\n\n\n\nGuía de uso\n\nEn Apuntes puedes buscar y filtrar por año, semestre o curso. Cada nota trae título y una breve descripción; cuando corresponde, también categorías para facilitar la navegación.\n\n\n\nSobre los apuntes\n\nLos apuntes representan el corazón del repositorio. La idea es que cada apunte quede referenciado de forma adecuada (apa 7) como parte de la memoria y construcción de una comunidad transparente y colaborativa. El formato lo define quien aporta, puede ser una presentación de ayudantías, apuntes de textos, resúmenes de clases, preparación de evaluaciones,etc. Valoramos la diversidad de estilos y la voz propia. Lo importante es que el apunte sea útil y legible.\n\n\n\n¿Quieres aportar?\n\nEste espacio crece con los aportes de la comunidad de sociología, puedes hacerlo así:\n\nSubiendo tu archivo mediante el formulario del repositorio (Google Forms):\nAbrir formulario de aportes\nEn la carpeta Drive del repositorio. Esta carpeta cuenta con un archivo Excel para completar la información de los colaboradores en la pestaña Comunidad de la página, ademas en esta opcion, es necesario que completes de forma manual los datos del apunte.\n\n\nEl formato del archivo subido (PDF para facilitar lectura web ) debe ser el siguiente:\n\n[Ramo]_[Año]_[Tema]_[Apellido_Nombre].pdf\n  Por ejemplo: FilosofíaSocial_2022_prueba1_Aravena_Katherine.pdf\nAbrir Drive\n\n\n\n  \n\n\n\nMás sobre el proyecto\n\nUsamos Quarto para gestionar y publicar contenidos, con despliegue automático en GitHub Pages.\nObjetivos: - Facilitar el acceso a apuntes, resúmenes y bibliografía.\n- Fomentar la colaboración y el trabajo colectivo.\n- Construir conocimiento en común como parte del aprendizaje universitario.\n- Asegurar que materiales valiosos queden disponibles para nuevas generaciones.\nDisclaimer: esto no reemplaza el estudio personal ni la elaboración de apuntes propios. Buscamos conservar, complementar y ofrecer un recurso colectivo. Cada estudiante sigue siendo responsable de su propio aprendizaje, solo que ahora lo hacemos en conjunto.\n\n\nCualquier comentario, sugerencia o peticion contactarse con el equipo:\n\n\nEquipo\n\n\nAprender es colectivo. Sociología que se teje en comunidad."
   },
   {
     "objectID": "index.html#como-usar",
@@ -39,98 +39,98 @@
     "href": "apuntes/anio-1/anio-1.html",
     "title": "1° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/anio-1.html#i-semestre",
     "href": "apuntes/anio-1/anio-1.html#i-semestre",
     "title": "1° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/anio-1.html#ii-semestre",
     "href": "apuntes/anio-1/anio-1.html#ii-semestre",
     "title": "1° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-4/anio-4.html",
     "href": "apuntes/anio-4/anio-4.html",
     "title": "4° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopilación de apuntes, resumenes y material de los diversos electivos de la carrera.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-4/anio-4.html#i-semestre",
     "href": "apuntes/anio-4/anio-4.html#i-semestre",
     "title": "4° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-4/anio-4.html#ii-semestre",
     "href": "apuntes/anio-4/anio-4.html#ii-semestre",
     "title": "4° Año",
     "section": "",
-    "text": "Copilación de apuntes, resumenes y material de los diversos electivos de la carrera.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/anio-2.html",
     "href": "apuntes/anio-2/anio-2.html",
     "title": "2° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/anio-2.html#i-semestre",
     "href": "apuntes/anio-2/anio-2.html#i-semestre",
     "title": "2° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/anio-2.html#ii-semestre",
     "href": "apuntes/anio-2/anio-2.html#ii-semestre",
     "title": "2° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/anio-3.html",
     "href": "apuntes/anio-3/anio-3.html",
     "title": "3° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/anio-3.html#i-semestre",
     "href": "apuntes/anio-3/anio-3.html#i-semestre",
     "title": "3° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/anio-3.html#ii-semestre",
     "href": "apuntes/anio-3/anio-3.html#ii-semestre",
     "title": "3° Año",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#Año",
     "href": "index.html#Año",
     "title": "Repositorio de Apuntes de Sociología",
     "section": "Apuntes por año",
-    "text": "Apuntes por año\n\n\n\n\n\n1° año\n\n\nFundamentos comunes.\n\n\n\n\n\n\n\n2° año\n\n\nTeoría y métodos.\n\n\n\n\n\n\n\n3° año\n\n\nProfundización.\n\n\n\n\n\n\n\n4° año & electivos\n\n\nIntegración y grado.\n\n\n\n\n\n\nÚltimos apuntes\nVer todos\n\n\n\n\n\n\nTitle\n\n\n\nCategories\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\n1° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n2° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n3° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n4° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nEquipo\n\n\n\n\n\nComunidad de Estudiantes de Sociología\nColaboradores del repositorio.\n\nEn detalle\n\n\n\n\n\n\nChamita\nInvestigadora prrtativa.\n\n\n\n\n\nKatherine Aravena Herrera\nEstudiante de sociología.\n\nEmail Contacto GitHub"
+    "text": "Apuntes por año\n\n\n\n\n\n1° año\n\n\nFundamentos comunes.\n\n\n\n\n\n\n\n2° año\n\n\nTeoría y métodos.\n\n\n\n\n\n\n\n3° año\n\n\nProfundización.\n\n\n\n\n\n\n\n4° año & electivos\n\n\nIntegración\n\n\n\n\n\n\nÚltimos apuntes\nVer todos\n\n\n\n\n\n\nTitle\n\n\n\nCategories\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\n1° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n2° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n3° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n4° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nEquipo\n\n\n\n\n\nComunidad de Estudiantes de Sociología\nColaboradores del repositorio.\n\nEn detalle\n\n\n\n\n\n\nChamita\nInvestigadora prrtativa.\n\n\n\n\n\nKatherine Aravena Herrera\nEstudiante de sociología.\n\nEmail Contacto GitHub"
   },
   {
     "objectID": "cursos/cursos.html",
     "href": "cursos/cursos.html",
     "title": "Apuntes por Año y Semestre",
     "section": "",
-    "text": "Síntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, conceptos clave y bibliografía.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopilación de apuntes, resumenes y material de los diversos electivos de la carrera.\n\n\n\n\n\nNo matching items"
+    "text": "Síntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSíntesis, resúmenes y apuntes del ramo.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/apuntes.html",
@@ -144,7 +144,7 @@
     "href": "apuntes/anio-1/sem-01/Antropología/index.html",
     "title": "Antropología",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-01/Antropología/index.html#sobre-este-curso",
@@ -158,7 +158,7 @@
     "href": "apuntes/anio-4/sem-07/Transformaciones Sociales del Chile Contemporáneo/index.html",
     "title": "Transformaciones Sociales del Chile Contemporáneo",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-4/sem-07/Transformaciones Sociales del Chile Contemporáneo/index.html#sobre-este-curso",
@@ -172,7 +172,7 @@
     "href": "apuntes/anio-3/sem-06/Teoría y Sociedad Latinoamericana/index.html",
     "title": "Teoría y Sociedad Latinoamericana",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-06/Teoría y Sociedad Latinoamericana/index.html#sobre-este-curso",
@@ -186,7 +186,7 @@
     "href": "apuntes/anio-3/sem-06/Sociología de las Políticas Públicas/index.html",
     "title": "Sociología de las Políticas Públicas",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-06/Sociología de las Políticas Públicas/index.html#sobre-este-curso",
@@ -200,7 +200,7 @@
     "href": "apuntes/anio-3/sem-05/Sociología de la Cultura/index.html",
     "title": "Sociología de la Cultura",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-05/Sociología de la Cultura/index.html#sobre-este-curso",
@@ -214,7 +214,7 @@
     "href": "apuntes/anio-3/sem-05/Desigualdades y Estratificación Social/index.html",
     "title": "Desigualdades y Estratificación Social",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-05/Desigualdades y Estratificación Social/index.html#sobre-este-curso",
@@ -228,7 +228,7 @@
     "href": "apuntes/anio-2/sem-04/Sociología Política/index.html",
     "title": "Sociología Política",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-04/Sociología Política/index.html#sobre-este-curso",
@@ -242,7 +242,7 @@
     "href": "apuntes/anio-2/sem-04/Estadística Correlacional/index.html",
     "title": "Estadística Correlacional",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-04/Estadística Correlacional/index.html#sobre-este-curso",
@@ -256,21 +256,21 @@
     "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/index.html",
     "title": "Teorías Sociológicas de la Sociedad Moderna",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nTeoria Moderna_2025_Benjamin_Aravena_Katherine.pdf\n\n\nAravena, K.\n\n\nSep 22, 2025\n\n\nTeoria Moderna — Benjamin. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nTeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\n\n\nAravena, K.\n\n\nSep 22, 2025\n\n\nTeoriamoderna — Park Y La Ecología Urbana. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nTeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\n\n\nAravena, K.\n\n\nSep 22, 2025\n\n\nTeoriamoderna — Parsonsagil. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/index.html#sobre-este-curso",
     "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/index.html#sobre-este-curso",
     "title": "Teorías Sociológicas de la Sociedad Moderna",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nTeoria Moderna_2025_Benjamin_AravenaKatherine.pdf\n\n\nAravenaKatherine \n\n\nJan 1, 2025\n\n\nTeoria Moderna — Benjamin. PDF aportado por AravenaKatherine.\n\n\n\n\n\n\nTeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\n\n\nAravena, K.\n\n\nJan 1, 2025\n\n\nTeoriamoderna — Park Y La Ecología Urbana. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nTeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\n\n\nKatherine \n\n\nJan 1, 2025\n\n\nTeoriamoderna — Parsonsagil Aravena. PDF aportado por Katherine.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Historia Social de Chile/index.html",
     "href": "apuntes/anio-2/sem-03/Historia Social de Chile/index.html",
     "title": "Historia Social de Chile",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Historia Social de Chile/index.html#sobre-este-curso",
@@ -284,7 +284,7 @@
     "href": "apuntes/anio-2/sem-03/Estadística Descriptiva/index.html",
     "title": "Estadística Descriptiva",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Estadística Descriptiva/index.html#sobre-este-curso",
@@ -298,7 +298,7 @@
     "href": "apuntes/anio-1/sem-02/Teoría Sociológica Clásica/index.html",
     "title": "Teoría Sociológica Clásica",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-02/Teoría Sociológica Clásica/index.html#sobre-este-curso",
@@ -312,7 +312,7 @@
     "href": "apuntes/anio-1/sem-02/Historia Social de América Latina/index.html",
     "title": "Historia Social de América Latina",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-02/Historia Social de América Latina/index.html#sobre-este-curso",
@@ -326,7 +326,7 @@
     "href": "apuntes/anio-1/sem-02/Diseño de Investigación/index.html",
     "title": "Diseño de Investigación",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-02/Diseño de Investigación/index.html#sobre-este-curso",
@@ -340,7 +340,7 @@
     "href": "apuntes/anio-1/sem-01/Introducción a la Sociología/index.html",
     "title": "Introducción a la Sociología",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-01/Introducción a la Sociología/index.html#sobre-este-curso",
@@ -354,7 +354,7 @@
     "href": "apuntes/anio-1/sem-01/Filosofía Social/index.html",
     "title": "Filosofía Social",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-01/Filosofía Social/index.html#sobre-este-curso",
@@ -368,7 +368,7 @@
     "href": "apuntes/anio-1/sem-01/Historia de la Sociedad Moderna/index.html",
     "title": "Historia de la Sociedad Moderna",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-01/Historia de la Sociedad Moderna/index.html#sobre-este-curso",
@@ -382,7 +382,7 @@
     "href": "apuntes/anio-1/sem-01/Psicología Social/index.html",
     "title": "Psicología Social",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-01/Psicología Social/index.html#sobre-este-curso",
@@ -396,7 +396,7 @@
     "href": "apuntes/anio-1/sem-02/Epistemología/index.html",
     "title": "Epistemología",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-02/Epistemología/index.html#sobre-este-curso",
@@ -410,7 +410,7 @@
     "href": "apuntes/anio-1/sem-02/Población y Sociedad/index.html",
     "title": "Población y Sociedad",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-1/sem-02/Población y Sociedad/index.html#sobre-este-curso",
@@ -424,21 +424,21 @@
     "href": "apuntes/anio-2/sem-03/Economía/index.html",
     "title": "Economía",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nEconomia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\nAravena, K., Monreal, S.\n\n\nSep 22, 2025\n\n\nEconomia — Introducción A La Economía Y Teoría Del Valor Smith. PDF aportado por Aravena Katherine, Monreal Sebastian.\n\n\n\n\n\n\nEconomia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\n\n\nAravena, K., Monreal, S.\n\n\nSep 22, 2025\n\n\nEconomia — Marxismo. PDF aportado por Aravena Katherine, Monreal Sebastian.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Economía/index.html#sobre-este-curso",
     "href": "apuntes/anio-2/sem-03/Economía/index.html#sobre-este-curso",
     "title": "Economía",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nEconomia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\nAravena, K., Monreal, S.\n\n\nSep 22, 2025\n\n\nEconomia — Introducción A La Economía Y Teoría Del Valor Smith. PDF aportado por Aravena Katherine, Monreal Sebastian.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Estrategias de Investigación Cualitativa/index.html",
     "href": "apuntes/anio-2/sem-03/Estrategias de Investigación Cualitativa/index.html",
     "title": "Estrategias de Investigación Cualitativa",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-03/Estrategias de Investigación Cualitativa/index.html#sobre-este-curso",
@@ -466,7 +466,7 @@
     "href": "apuntes/anio-2/sem-04/Análisis de Información Cualitativa/index.html",
     "title": "Análisis de Información Cualitativa",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-04/Análisis de Información Cualitativa/index.html#sobre-este-curso",
@@ -480,7 +480,7 @@
     "href": "apuntes/anio-2/sem-04/Estrategias de Investigación Cuantitativa/index.html",
     "title": "Estrategias de Investigación Cuantitativa",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-04/Estrategias de Investigación Cuantitativa/index.html#sobre-este-curso",
@@ -494,7 +494,7 @@
     "href": "apuntes/anio-2/sem-04/Teorías Sociológicas Contemporáneas/index.html",
     "title": "Teorías Sociológicas Contemporáneas",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-2/sem-04/Teorías Sociológicas Contemporáneas/index.html#sobre-este-curso",
@@ -508,7 +508,7 @@
     "href": "apuntes/anio-3/sem-05/Estadística Multivariada/index.html",
     "title": "Estadística Multivariada",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-05/Estadística Multivariada/index.html#sobre-este-curso",
@@ -522,7 +522,7 @@
     "href": "apuntes/anio-3/sem-05/Sociología del Género/index.html",
     "title": "Sociología del Género",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-05/Sociología del Género/index.html#sobre-este-curso",
@@ -536,7 +536,7 @@
     "href": "apuntes/anio-3/sem-06/Sociología Económica/index.html",
     "title": "Sociología Económica",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-3/sem-06/Sociología Económica/index.html#sobre-este-curso",
@@ -550,7 +550,7 @@
     "href": "apuntes/anio-4/sem-07/Investigación Evaluativa/index.html",
     "title": "Investigación Evaluativa",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-4/sem-07/Investigación Evaluativa/index.html#sobre-este-curso",
@@ -606,7 +606,7 @@
     "href": "apuntes/anio-4/sem-08/Electivos/index.html",
     "title": "Electivos",
     "section": "",
-    "text": "Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "apuntes/anio-4/sem-08/Electivos/index.html#sobre-este-curso",
@@ -656,5 +656,509 @@
     "title": "Repositorio de Apuntes de Sociología",
     "section": "Apuntes por año",
     "text": "Apuntes por año\n\n\n1° año\n\n\n\nI semestre\n\n\nII semestre\n\n\n\n\n\n2° año\n\n\n\nI semestre\n\n\nII semestre\n\n\n\n\n\n3° año\n\n\n\nI semestre\n\n\nII semestre\n\n\n\n\n\n4° año & electivos\n\n\n\nI semestre\n\n\nII semestre\n\n\n\n\n\nÚltimos apuntes\nVer todos\n\n\n\n\n\n\nTitle\n\n\n\nCategories\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\n1° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n2° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n3° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n4° Año\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nEquipo\n\n\n\n\n\nComunidad de Estudiantes de Sociología\nColaboradores de la comunidad\nAporte directo al repositorio. Invita a sumarte compartiendo tus apuntes para fortalecer el aprendizaje colectivo.\n\nEn detalle\n\n\n\n\n\n\nChamita\nInvestigadora prrtativa\nDoctora en siestas aplicadas de la Universidad del Churu. Lider del proyecto, diseño pagina Web.\n\n\n\n\n\nKatherine Aravena Herrera\nEstudiante de sociología.\n\nEmail Contacto GitHub"
+  },
+  {
+    "objectID": "docs/apuntes/anio-2/sem-03/Economía/economia-2025-introduccion-a-la-economia-y-teoria-del-valor-smith-aravena-katherine.html",
+    "href": "docs/apuntes/anio-2/sem-03/Economía/economia-2025-introduccion-a-la-economia-y-teoria-del-valor-smith-aravena-katherine.html",
+    "title": "Economia: Introducción A La Economía Y Teoría Del Valor Smith (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nAravena, K. & Monreal, S. (2025). Economia: Introducción A La Economía Y Teoría Del Valor Smith [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "docs/apuntes/anio-2/sem-03/Economía/economia-2025-marxismo-aravena-katherine.html",
+    "href": "docs/apuntes/anio-2/sem-03/Economía/economia-2025-marxismo-aravena-katherine.html",
+    "title": "Economia: Marxismo (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nAravena, K. & Monreal, S. (2025). Economia: Marxismo [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna-2025-park-y-la-ecologia-urbana-aravena-katherine.html",
+    "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna-2025-park-y-la-ecologia-urbana-aravena-katherine.html",
+    "title": "Teoriamoderna: Park Y La Ecología Urbana (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nAravena, K. (2025). Teoriamoderna: Park Y La Ecología Urbana [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. TeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\nCurso: Teoriamoderna\nAño: 2025\nArchivo PDF: TeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Economía/economia-2025-marxismo-aravena-katherine.html",
+    "href": "apuntes/anio-2/sem-03/Economía/economia-2025-marxismo-aravena-katherine.html",
+    "title": "Economia: Marxismo (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nAravena, K. & Monreal, S. (2025). Economia: Marxismo [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Economía/economia-2025-introduccion-a-la-economia-y-teoria-del-valor-smith-aravena-katherine.html",
+    "href": "apuntes/anio-2/sem-03/Economía/economia-2025-introduccion-a-la-economia-y-teoria-del-valor-smith-aravena-katherine.html",
+    "title": "Economia: Introducción A La Economía Y Teoría Del Valor Smith (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nAravena, K. & Monreal, S. (2025). Economia: Introducción A La Economía Y Teoría Del Valor Smith [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoria-moderna-2025-benjamin-aravenakatherine.html",
+    "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoria-moderna-2025-benjamin-aravenakatherine.html",
+    "title": "Teoria Moderna: Benjamin (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nAravenaKatherine (2025). Teoria Moderna: Benjamin [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. Teoria Moderna_2025_Benjamin_AravenaKatherine.pdf\nCurso: Teoria Moderna\nAño: 2025\nArchivo PDF: Teoria Moderna_2025_Benjamin_AravenaKatherine.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna-2025-parsonsagil-aravena-katherine.html",
+    "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna-2025-parsonsagil-aravena-katherine.html",
+    "title": "Teoriamoderna: Parsonsagil Aravena (2025)",
+    "section": "",
+    "text": "Referencia (APA 7)\nKatherine (2025). Teoriamoderna: Parsonsagil Aravena [PDF]. Repositorio de Apuntes de Sociología, U. de Chile. TeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\nCurso: Teoriamoderna\nAño: 2025\nArchivo PDF: TeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\n\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Economía/economia2025introduccion-a-la-economia-y-teoria-del-valor-smitharavena-katherine-y-monreal-sebastian.html",
+    "href": "apuntes/anio-2/sem-03/Economía/economia2025introduccion-a-la-economia-y-teoria-del-valor-smitharavena-katherine-y-monreal-sebastian.html",
+    "title": "Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. & Monreal, S. (2025). Economia: Introducción A La Economía Y Teoría Del Valor Smith [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna2025parsonsagilaravenakatherine.html",
+    "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna2025parsonsagilaravenakatherine.html",
+    "title": "TeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Teoriamoderna: Parsonsagil [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoriamoderna\nAño: 2025\nArchivo PDF: TeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoria-moderna2025benjaminaravenakatherine.html",
+    "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoria-moderna2025benjaminaravenakatherine.html",
+    "title": "Teoria Moderna_2025_Benjamin_Aravena_Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Teoria Moderna: Benjamin [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoria Moderna\nAño: 2025\nArchivo PDF: Teoria Moderna_2025_Benjamin_Aravena_Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Economía/economia2025marxismoaravena-katherine-y-monreal-sebastian.html",
+    "href": "apuntes/anio-2/sem-03/Economía/economia2025marxismoaravena-katherine-y-monreal-sebastian.html",
+    "title": "Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. & Monreal, S. (2025). Economia: Marxismo [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna2025park-y-la-ecologia-urbanaaravena-katherine.html",
+    "href": "apuntes/anio-2/sem-03/Teorías Sociológicas de la Sociedad Moderna/teoriamoderna2025park-y-la-ecologia-urbanaaravena-katherine.html",
+    "title": "TeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Teoriamoderna: Park Y La Ecología Urbana [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoriamoderna\nAño: 2025\nArchivo PDF: TeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/teoriamoderna2025park-y-la-ecologia-urbanaaravena-katherine.html",
+    "href": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/teoriamoderna2025park-y-la-ecologia-urbanaaravena-katherine.html",
+    "title": "TeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Teoriamoderna: Park Y La Ecología Urbana [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoriamoderna\nAño: 2025\nArchivo PDF: TeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/index.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/index.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nTransformaciones Sociales del Chile Contemporáneo_2025_Ficha Baño_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTransformaciones Sociales Del Chile Contemporáneo — Ficha Baño. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nTransformaciones Sociales del Chile Contemporáneo_2025_Ficha Faletto_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTransformaciones Sociales Del Chile Contemporáneo — Ficha Faletto. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nTransformaciones Sociales del Chile Contemporáneo_2025_Ficha Garretón 2_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTransformaciones Sociales Del Chile Contemporáneo — Ficha Garretón 2. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nTransformaciones Sociales del Chile Contemporáneo_2025_Ficha Valdés_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTransformaciones Sociales Del Chile Contemporáneo — Ficha Valdés. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nTransformaciones Sociales del Chile Contemporáneo_2025_Prueba 2_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTransformaciones Sociales Del Chile Contemporáneo — Prueba 2. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nTransformaciones Sociales del Chile Contemporáneo_2025_Prueba1_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTransformaciones Sociales Del Chile Contemporáneo — Prueba1. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-06/teoria-y-sociedad-latinoamericana/index.html",
+    "href": "apuntes/anio-3/sem-06/teoria-y-sociedad-latinoamericana/index.html",
+    "title": "Teoría y Sociedad Latinoamericana",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nTeoría y Sociedad Latinoamericana_2024_Resumen prueba 1_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTeoría Y Sociedad Latinoamericana — Resumen Prueba 1. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nTeoría y Sociedad Latinoamericana_2024_Resumen prueba 2_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nTeoría Y Sociedad Latinoamericana — Resumen Prueba 2. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-06/sociologia-de-las-politicas-publicas/index.html",
+    "href": "apuntes/anio-3/sem-06/sociologia-de-las-politicas-publicas/index.html",
+    "title": "Sociología de las Políticas Públicas",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nSociología de las Políticas Públicas_2024_Resumen quiz 1_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología De Las Políticas Públicas — Resumen Quiz 1. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-de-la-cultura/index.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-de-la-cultura/index.html",
+    "title": "Sociología de la Cultura",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nSociología de la Cultura_2024_textos prueba 1_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología De La Cultura — Textos Prueba 1. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/index.html",
+    "href": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/index.html",
+    "title": "Desigualdades y Estratificación Social",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nDesigualdades y Estratificación Social_2024_Ficha Locke_ Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nDesigualdades Y Estratificación Social — Ficha Locke. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nDesigualdades y Estratificación Social_2024_Ficha Ossowski_ Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nDesigualdades Y Estratificación Social — Ficha Ossowski. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nDesigualdades y Estratificación Social_2024_Ficha Rousseau_ Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nDesigualdades Y Estratificación Social — Ficha Rousseau. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nDesigualdades y Estratificación Social_2024_Ficha Sen_ Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nDesigualdades Y Estratificación Social — Ficha Sen. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/sociologia-politica/index.html",
+    "href": "apuntes/anio-2/sem-04/sociologia-politica/index.html",
+    "title": "Sociología Política",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nSociología Política_2023_Ficha Arendt_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Política — Ficha Arendt. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología Política_2023_Ficha Weber_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Política — Ficha Weber. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/estadistica-correlacional/index.html",
+    "href": "apuntes/anio-2/sem-04/estadistica-correlacional/index.html",
+    "title": "Estadística Correlacional",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nEstadística Correlacional_2023_Resumen prueba 1_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nEstadística Correlacional — Resumen Prueba 1. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/teoriamoderna2025parsonsagilaravenakatherine.html",
+    "href": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/teoriamoderna2025parsonsagilaravenakatherine.html",
+    "title": "TeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Teoriamoderna: Parsonsagil [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoriamoderna\nAño: 2025\nArchivo PDF: TeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/index.html",
+    "href": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/index.html",
+    "title": "Teorías Sociológicas de la Sociedad Moderna",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nTeoria Moderna_2025_Benjamin_Aravena_Katherine.pdf\n\n\nAravena, K.\n\n\nSep 22, 2025\n\n\nTeoria Moderna — Benjamin. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nTeoriaModerna_2025_Park y la Ecología Urbana_Aravena Katherine.pdf\n\n\nAravena, K.\n\n\nSep 22, 2025\n\n\nTeoriamoderna — Park Y La Ecología Urbana. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nTeoriaModerna_2025_ParsonsAGIL_Aravena_Katherine.pdf\n\n\nAravena, K.\n\n\nSep 22, 2025\n\n\nTeoriamoderna — Parsonsagil. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/estrategias-de-investigacion-cualitativa/index.html",
+    "href": "apuntes/anio-2/sem-03/estrategias-de-investigacion-cualitativa/index.html",
+    "title": "Estrategias de Investigación Cualitativa",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/economia/index.html",
+    "href": "apuntes/anio-2/sem-03/economia/index.html",
+    "title": "Economía",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nEconomia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\nAravena, K., Monreal, S.\n\n\nSep 22, 2025\n\n\nEconomia — Introducción A La Economía Y Teoría Del Valor Smith. PDF aportado por Aravena Katherine, Monreal Sebastian.\n\n\n\n\n\n\nEconomia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\n\n\nAravena, K., Monreal, S.\n\n\nSep 22, 2025\n\n\nEconomia — Marxismo. PDF aportado por Aravena Katherine, Monreal Sebastian.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/economia/economia2025introduccion-a-la-economia-y-teoria-del-valor-smitharavena-katherine-y-monreal-sebastian.html",
+    "href": "apuntes/anio-2/sem-03/economia/economia2025introduccion-a-la-economia-y-teoria-del-valor-smitharavena-katherine-y-monreal-sebastian.html",
+    "title": "Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. & Monreal, S. (2025). Economia: Introducción A La Economía Y Teoría Del Valor Smith [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Introducción a la Economía y Teoría del Valor Smith_Aravena Katherine y Monreal Sebastian.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-02/poblacion-y-sociedad/index.html",
+    "href": "apuntes/anio-1/sem-02/poblacion-y-sociedad/index.html",
+    "title": "Población y Sociedad",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-02/epistemologia/index.html",
+    "href": "apuntes/anio-1/sem-02/epistemologia/index.html",
+    "title": "Epistemología",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-01/psicologia-social/index.html",
+    "href": "apuntes/anio-1/sem-01/psicologia-social/index.html",
+    "title": "Psicología Social",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nPsicología Social_2025_Orientaciones entrega Representaciones Sociales_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nPsicología Social — Orientaciones Entrega Representaciones Sociales. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-01/historia-de-la-sociedad-moderna/index.html",
+    "href": "apuntes/anio-1/sem-01/historia-de-la-sociedad-moderna/index.html",
+    "title": "Historia de la Sociedad Moderna",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-01/antropologia/index.html",
+    "href": "apuntes/anio-1/sem-01/antropologia/index.html",
+    "title": "Antropología",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-01/filosofia-social/index.html",
+    "href": "apuntes/anio-1/sem-01/filosofia-social/index.html",
+    "title": "Filosofía Social",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-01/introduccion-a-la-sociologia/index.html",
+    "href": "apuntes/anio-1/sem-01/introduccion-a-la-sociologia/index.html",
+    "title": "Introducción a la Sociología",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-02/diseno-de-investigacion/index.html",
+    "href": "apuntes/anio-1/sem-02/diseno-de-investigacion/index.html",
+    "title": "Diseño de Investigación",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nDiseñoInvestigacion_2025_AnderEgg- Aprender_a_investigar_Aravena_Katherine.pdf\n\n\nAravena, K.\n\n\nSep 23, 2025\n\n\nDiseñoinvestigacion — Anderegg- Aprender A Investigar. PDF aportado por Aravena Katherine.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-02/historia-social-de-america-latina/index.html",
+    "href": "apuntes/anio-1/sem-02/historia-social-de-america-latina/index.html",
+    "title": "Historia Social de América Latina",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-02/teoria-sociologica-clasica/index.html",
+    "href": "apuntes/anio-1/sem-02/teoria-sociologica-clasica/index.html",
+    "title": "Teoría Sociológica Clásica",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/economia/economia2025marxismoaravena-katherine-y-monreal-sebastian.html",
+    "href": "apuntes/anio-2/sem-03/economia/economia2025marxismoaravena-katherine-y-monreal-sebastian.html",
+    "title": "Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. & Monreal, S. (2025). Economia: Marxismo [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Economia\nAño: 2025\nArchivo PDF: Economia_2025_Marxismo_Aravena Katherine y Monreal Sebastian.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/estadistica-descriptiva/index.html",
+    "href": "apuntes/anio-2/sem-03/estadistica-descriptiva/index.html",
+    "title": "Estadística Descriptiva",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/historia-social-de-chile/index.html",
+    "href": "apuntes/anio-2/sem-03/historia-social-de-chile/index.html",
+    "title": "Historia Social de Chile",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/teoria-moderna2025benjaminaravenakatherine.html",
+    "href": "apuntes/anio-2/sem-03/teorias-sociologicas-de-la-sociedad-moderna/teoria-moderna2025benjaminaravenakatherine.html",
+    "title": "Teoria Moderna_2025_Benjamin_Aravena_Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Teoria Moderna: Benjamin [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoria Moderna\nAño: 2025\nArchivo PDF: Teoria Moderna_2025_Benjamin_Aravena_Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/analisis-de-informacion-cualitativa/index.html",
+    "href": "apuntes/anio-2/sem-04/analisis-de-informacion-cualitativa/index.html",
+    "title": "Análisis de Información Cualitativa",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/estrategias-de-investigacion-cuantitativa/index.html",
+    "href": "apuntes/anio-2/sem-04/estrategias-de-investigacion-cuantitativa/index.html",
+    "title": "Estrategias de Investigación Cuantitativa",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/teorias-sociologicas-contemporaneas/index.html",
+    "href": "apuntes/anio-2/sem-04/teorias-sociologicas-contemporaneas/index.html",
+    "title": "Teorías Sociológicas Contemporáneas",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/estadistica-multivariada/index.html",
+    "href": "apuntes/anio-3/sem-05/estadistica-multivariada/index.html",
+    "title": "Estadística Multivariada",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/index.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/index.html",
+    "title": "Sociología del Género",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\nSociología del Género_2024_Ficha Cobo_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Ficha Cobo. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología del Género_2024_Ficha Lerner_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Ficha Lerner. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología del Género_2024_Ficha Miyares_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Ficha Miyares. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología del Género_2024_Ficha Osborne_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Ficha Osborne. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología del Género_2024_Ficha Puleo_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Ficha Puleo. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología del Género_2024_Ficha Scott_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Ficha Scott. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nSociología del Género_2024_Resumen prueba 2_Ortiz_Cahuil.pdf\n\n\nOrtiz, C.\n\n\nSep 23, 2025\n\n\nSociología Del Género — Resumen Prueba 2. PDF aportado por Ortiz Cahuil.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-06/sociologia-economica/index.html",
+    "href": "apuntes/anio-3/sem-06/sociologia-economica/index.html",
+    "title": "Sociología Económica",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/investigacion-evaluativa/index.html",
+    "href": "apuntes/anio-4/sem-07/investigacion-evaluativa/index.html",
+    "title": "Investigación Evaluativa",
+    "section": "",
+    "text": "Apuntes del curso\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-02/diseno-de-investigacion/disenoinvestigacion2025anderegg-aprenderainvestigararavenakatherine.html",
+    "href": "apuntes/anio-1/sem-02/diseno-de-investigacion/disenoinvestigacion2025anderegg-aprenderainvestigararavenakatherine.html",
+    "title": "DiseñoInvestigacion_2025_AnderEgg- Aprender_a_investigar_Aravena_Katherine.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Aravena, K. (2025). Diseñoinvestigacion: Anderegg- Aprender A Investigar [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Diseñoinvestigacion\nAño: 2025\nArchivo PDF: DiseñoInvestigacion_2025_AnderEgg- Aprender_a_investigar_Aravena_Katherine.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025prueba-2ortizcahuil.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025prueba-2ortizcahuil.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo_2025_Prueba 2_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Transformaciones Sociales Del Chile Contemporáneo: Prueba 2 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Transformaciones Sociales Del Chile Contemporáneo\nAño: 2025\nArchivo PDF: Transformaciones Sociales del Chile Contemporáneo_2025_Prueba 2_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-garreton-2ortizcahuil.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-garreton-2ortizcahuil.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Garretón 2_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Transformaciones Sociales Del Chile Contemporáneo: Ficha Garretón 2 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Transformaciones Sociales Del Chile Contemporáneo\nAño: 2025\nArchivo PDF: Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Garretón 2_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-banoortizcahuil.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-banoortizcahuil.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Baño_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Transformaciones Sociales Del Chile Contemporáneo: Ficha Baño [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Transformaciones Sociales Del Chile Contemporáneo\nAño: 2025\nArchivo PDF: Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Baño_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-06/teoria-y-sociedad-latinoamericana/teoria-y-sociedad-latinoamericana2024resumen-prueba-1ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-06/teoria-y-sociedad-latinoamericana/teoria-y-sociedad-latinoamericana2024resumen-prueba-1ortizcahuil.html",
+    "title": "Teoría y Sociedad Latinoamericana_2024_Resumen prueba 1_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Teoría Y Sociedad Latinoamericana: Resumen Prueba 1 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoría Y Sociedad Latinoamericana\nAño: 2024\nArchivo PDF: Teoría y Sociedad Latinoamericana_2024_Resumen prueba 1_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024resumen-prueba-2ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024resumen-prueba-2ortizcahuil.html",
+    "title": "Sociología del Género_2024_Resumen prueba 2_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Resumen Prueba 2 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Resumen prueba 2_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-puleoortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-puleoortizcahuil.html",
+    "title": "Sociología del Género_2024_Ficha Puleo_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Ficha Puleo [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Ficha Puleo_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-miyaresortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-miyaresortizcahuil.html",
+    "title": "Sociología del Género_2024_Ficha Miyares_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Ficha Miyares [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Ficha Miyares_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-coboortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-coboortizcahuil.html",
+    "title": "Sociología del Género_2024_Ficha Cobo_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Ficha Cobo [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Ficha Cobo_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-sen-ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-sen-ortizcahuil.html",
+    "title": "Desigualdades y Estratificación Social_2024_Ficha Sen_ Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Desigualdades Y Estratificación Social: Ficha Sen [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Desigualdades Y Estratificación Social\nAño: 2024\nArchivo PDF: Desigualdades y Estratificación Social_2024_Ficha Sen_ Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-ossowski-ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-ossowski-ortizcahuil.html",
+    "title": "Desigualdades y Estratificación Social_2024_Ficha Ossowski_ Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Desigualdades Y Estratificación Social: Ficha Ossowski [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Desigualdades Y Estratificación Social\nAño: 2024\nArchivo PDF: Desigualdades y Estratificación Social_2024_Ficha Ossowski_ Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/sociologia-politica/sociologia-politica2023ficha-weberortizcahuil.html",
+    "href": "apuntes/anio-2/sem-04/sociologia-politica/sociologia-politica2023ficha-weberortizcahuil.html",
+    "title": "Sociología Política_2023_Ficha Weber_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2023). Sociología Política: Ficha Weber [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Política\nAño: 2023\nArchivo PDF: Sociología Política_2023_Ficha Weber_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/estadistica-correlacional/estadistica-correlacional2023resumen-prueba-1ortizcahuil.html",
+    "href": "apuntes/anio-2/sem-04/estadistica-correlacional/estadistica-correlacional2023resumen-prueba-1ortizcahuil.html",
+    "title": "Estadística Correlacional_2023_Resumen prueba 1_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2023). Estadística Correlacional: Resumen Prueba 1 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Estadística Correlacional\nAño: 2023\nArchivo PDF: Estadística Correlacional_2023_Resumen prueba 1_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-1/sem-01/psicologia-social/psicologia-social2025orientaciones-entrega-representaciones-socialesortizcahuil.html",
+    "href": "apuntes/anio-1/sem-01/psicologia-social/psicologia-social2025orientaciones-entrega-representaciones-socialesortizcahuil.html",
+    "title": "Psicología Social_2025_Orientaciones entrega Representaciones Sociales_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Psicología Social: Orientaciones Entrega Representaciones Sociales [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Psicología Social\nAño: 2025\nArchivo PDF: Psicología Social_2025_Orientaciones entrega Representaciones Sociales_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-2/sem-04/sociologia-politica/sociologia-politica2023ficha-arendtortizcahuil.html",
+    "href": "apuntes/anio-2/sem-04/sociologia-politica/sociologia-politica2023ficha-arendtortizcahuil.html",
+    "title": "Sociología Política_2023_Ficha Arendt_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2023). Sociología Política: Ficha Arendt [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Política\nAño: 2023\nArchivo PDF: Sociología Política_2023_Ficha Arendt_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-locke-ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-locke-ortizcahuil.html",
+    "title": "Desigualdades y Estratificación Social_2024_Ficha Locke_ Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Desigualdades Y Estratificación Social: Ficha Locke [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Desigualdades Y Estratificación Social\nAño: 2024\nArchivo PDF: Desigualdades y Estratificación Social_2024_Ficha Locke_ Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-rousseau-ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/desigualdades-y-estratificacion-social/desigualdades-y-estratificacion-social2024ficha-rousseau-ortizcahuil.html",
+    "title": "Desigualdades y Estratificación Social_2024_Ficha Rousseau_ Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Desigualdades Y Estratificación Social: Ficha Rousseau [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Desigualdades Y Estratificación Social\nAño: 2024\nArchivo PDF: Desigualdades y Estratificación Social_2024_Ficha Rousseau_ Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-de-la-cultura/sociologia-de-la-cultura2024textos-prueba-1ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-de-la-cultura/sociologia-de-la-cultura2024textos-prueba-1ortizcahuil.html",
+    "title": "Sociología de la Cultura_2024_textos prueba 1_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología De La Cultura: Textos Prueba 1 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología De La Cultura\nAño: 2024\nArchivo PDF: Sociología de la Cultura_2024_textos prueba 1_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-lernerortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-lernerortizcahuil.html",
+    "title": "Sociología del Género_2024_Ficha Lerner_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Ficha Lerner [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Ficha Lerner_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-osborneortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-osborneortizcahuil.html",
+    "title": "Sociología del Género_2024_Ficha Osborne_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Ficha Osborne [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Ficha Osborne_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-scottortizcahuil.html",
+    "href": "apuntes/anio-3/sem-05/sociologia-del-genero/sociologia-del-genero2024ficha-scottortizcahuil.html",
+    "title": "Sociología del Género_2024_Ficha Scott_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología Del Género: Ficha Scott [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología Del Género\nAño: 2024\nArchivo PDF: Sociología del Género_2024_Ficha Scott_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-06/sociologia-de-las-politicas-publicas/sociologia-de-las-politicas-publicas2024resumen-quiz-1ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-06/sociologia-de-las-politicas-publicas/sociologia-de-las-politicas-publicas2024resumen-quiz-1ortizcahuil.html",
+    "title": "Sociología de las Políticas Públicas_2024_Resumen quiz 1_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Sociología De Las Políticas Públicas: Resumen Quiz 1 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Sociología De Las Políticas Públicas\nAño: 2024\nArchivo PDF: Sociología de las Políticas Públicas_2024_Resumen quiz 1_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-3/sem-06/teoria-y-sociedad-latinoamericana/teoria-y-sociedad-latinoamericana2024resumen-prueba-2ortizcahuil.html",
+    "href": "apuntes/anio-3/sem-06/teoria-y-sociedad-latinoamericana/teoria-y-sociedad-latinoamericana2024resumen-prueba-2ortizcahuil.html",
+    "title": "Teoría y Sociedad Latinoamericana_2024_Resumen prueba 2_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2024). Teoría Y Sociedad Latinoamericana: Resumen Prueba 2 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Teoría Y Sociedad Latinoamericana\nAño: 2024\nArchivo PDF: Teoría y Sociedad Latinoamericana_2024_Resumen prueba 2_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-falettoortizcahuil.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-falettoortizcahuil.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Faletto_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Transformaciones Sociales Del Chile Contemporáneo: Ficha Faletto [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Transformaciones Sociales Del Chile Contemporáneo\nAño: 2025\nArchivo PDF: Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Faletto_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-valdesortizcahuil.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025ficha-valdesortizcahuil.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Valdés_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Transformaciones Sociales Del Chile Contemporáneo: Ficha Valdés [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Transformaciones Sociales Del Chile Contemporáneo\nAño: 2025\nArchivo PDF: Transformaciones Sociales del Chile Contemporáneo_2025_Ficha Valdés_Ortiz_Cahuil.pdf\n\n\nVista del documento"
+  },
+  {
+    "objectID": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025prueba1ortizcahuil.html",
+    "href": "apuntes/anio-4/sem-07/transformaciones-sociales-del-chile-contemporaneo/transformaciones-sociales-del-chile-contemporaneo2025prueba1ortizcahuil.html",
+    "title": "Transformaciones Sociales del Chile Contemporáneo_2025_Prueba1_Ortiz_Cahuil.pdf",
+    "section": "",
+    "text": "Referencia (APA 7)\n  \n  \n    Ortiz, C. (2025). Transformaciones Sociales Del Chile Contemporáneo: Prueba1 [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.\n  \n\nCurso: Transformaciones Sociales Del Chile Contemporáneo\nAño: 2025\nArchivo PDF: Transformaciones Sociales del Chile Contemporáneo_2025_Prueba1_Ortiz_Cahuil.pdf\n\n\nVista del documento"
   }
 ]

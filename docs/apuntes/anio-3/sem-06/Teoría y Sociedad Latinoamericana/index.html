@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Síntesis, conceptos clave y bibliografía.">
+<meta name="description" content="Síntesis, resúmenes y apuntes del ramo.">
 
 <title>Teoría y Sociedad Latinoamericana – Apuntes Sociología</title>
 <style>
@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../../">
+<link href="../../../../resources/imagenes/logo.svg" rel="icon" type="image/svg+xml">
 <script src="../../../../site_libs/quarto-listing/list.min.js"></script>
 <script src="../../../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../../../site_libs/quarto-html/quarto.js" type="module"></script>
@@ -335,7 +336,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../cursos.qmd"> 
+    <a class="nav-link" href="../../../../cursos/cursos.html"> 
 <span class="menu-text">Cursos</span></a>
   </li>  
   <li class="nav-item">
@@ -343,17 +344,21 @@ window.Quarto = {
 <span class="menu-text">Destacados</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html#malla"> 
-<span class="menu-text">Año</span></a>
+    <a class="nav-link" href="../../../../index.html#Año"> 
+<span class="menu-text">Apuntes por año</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html#ultimos"> 
-<span class="menu-text">Últimos</span></a>
+    <a class="nav-link" href="../../../../comunidad.html"> 
+<span class="menu-text">Comunidad</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../about.html"> 
+<span class="menu-text">Información</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
-    <a href="https://github.com/KAravena/Archivo-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/KAravena/Repositorio-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
     <a href="javascript:void(0)" title="<i class='bi bi-moon-stars'></i>" class="quarto-navigation-tool px-1" aria-label="Cambiar tema"><i class="bi bi-"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -367,7 +372,7 @@ window.Quarto = {
       <h1 class="title">Teoría y Sociedad Latinoamericana</h1>
                   <div>
         <div class="description">
-          Síntesis, conceptos clave y bibliografía.
+          Síntesis, resúmenes y apuntes del ramo.
         </div>
       </div>
                           <div class="quarto-categories">
@@ -398,9 +403,6 @@ window.Quarto = {
 
 
 
-<section id="sobre-este-curso" class="level2">
-<h2 class="anchored" data-anchor-id="sobre-este-curso">Sobre este curso</h2>
-<p>Breve descripción del curso o indicaciones para aportar (formato, citas, etc.).</p>
 <section id="apuntes-del-curso" class="level3">
 <h3 class="anchored" data-anchor-id="apuntes-del-curso">Apuntes del curso</h3>
 <div id="listing-apuntes-curso" class="quarto-listing quarto-listing-container-table">
@@ -427,7 +429,6 @@ window.Quarto = {
 
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -517,7 +518,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/karavena\.github\.io\/Archivo-Sociologia-UChile\/");
+        var filterRegex = new RegExp("https:\/\/apuntes-sociologia\.me");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -531,11 +532,6 @@ window.Quarto = {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

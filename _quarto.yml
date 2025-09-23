@@ -20,8 +20,6 @@ website:
         href: index.qmd#destacados
       - text: "Apuntes por año"
         href: index.qmd#Año
-      - text: "Comunidad"
-        href: comunidad.qmd
       - text: "Información"
         href: about.qmd
 

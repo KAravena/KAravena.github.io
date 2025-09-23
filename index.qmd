@@ -1,6 +1,6 @@
 ---
 title: "Repositorio de Apuntes de Sociología"
-pagetitle: "Apuntes Sociología U. de Chile"
+pagetitle: "Comunidad de estudiantes Sociología U. de Chile"
 title-block: true 
 page-layout: full
 toc: false
@@ -43,13 +43,13 @@ Usa el **buscador** y los **filtros** para encontrar apuntes por curso o año.
 ::: {.feature-tile}
 <div class="ico">🧩</div>
 ### Formato de apuntes
-Estructura libre: se brinda una **síntesis**, **conceptos clave** y enlaces a más material junto a las referencías correspondientes.
+Estructura libre: se brindan **resumenes**, **síntesis** y enlaces a más material con las referencías correspondientes.
 [Ver guía de formato](/about.qmd)
 :::
 ::: {.feature-tile}
 <div class="ico">🤝</div>
 ### ¿Quieres aportar?
-Envía un **PR** o comparte tu archivo mediante el **formulario**.  
+Comparte tu archivo mediante un **formulario** o el **drive** del repositorio.  
 [Cómo aportar](about.qmd)
 :::
 :::
@@ -86,7 +86,7 @@ Envía un **PR** o comparte tu archivo mediante el **formulario**.
 <div class="badge-year">
   <a class="cover" href="/apuntes/anio-4/anio-4.qmd" aria-label="Ir a 4° año y electivos"></a>
   <h3>4° año & electivos</h3>
-  <p>Integración y grado.</p>
+  <p>Integración</p>
 </div>
 :::
 

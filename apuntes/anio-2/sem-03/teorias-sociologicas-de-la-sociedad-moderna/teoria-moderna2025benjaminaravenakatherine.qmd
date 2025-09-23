@@ -1,0 +1,38 @@
+---
+title: "Teoria Moderna_2025_Benjamin_Aravena_Katherine.pdf"
+page-layout: article
+toc: false
+categories: ["Teoria Moderna", "2025"]
+description: "Teoria Moderna — Benjamin. PDF aportado por Aravena Katherine."
+date: 2025-09-22
+author: ["Aravena, K."]
+format:
+  html:
+    css: "../../../Styles_A.css"
+    code-fold: false
+---
+
+::: {.page-surface}
+
+~~~{=html}
+<div class="box-apa">
+  <div class="box-apa-head">
+    <span class="box-apa-kicker">Referencia (APA 7)</span>
+  </div>
+  <div class="box-apa-body">
+    Aravena, K. (2025). <em>Teoria Moderna: Benjamin</em> [PDF]. Repositorio de Apuntes de Sociología, U. de Chile.
+  </div>
+</div>
+~~~
+
+**Curso:** Teoria Moderna  
+**Año:** 2025  
+**Archivo PDF:** [Teoria Moderna_2025_Benjamin_Aravena_Katherine.pdf](/resources/apuntes_Listos/Teoria%20Moderna_2025_Benjamin_Aravena_Katherine.pdf)
+
+---
+
+### Vista del documento
+
+<iframe src="/resources/apuntes_Listos/Teoria%20Moderna_2025_Benjamin_Aravena_Katherine.pdf" width="100%" height="720" style="border:1px solid var(--borde); border-radius:12px;"></iframe>
+
+:::

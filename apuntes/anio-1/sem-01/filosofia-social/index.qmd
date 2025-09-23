@@ -1,0 +1,23 @@
+---
+title: "Filosofía Social"
+description: "Síntesis, resúmenes y apuntes del ramo."
+categories: [anio-1, sem-01]
+image: /resources/imagenes/cursos/filosofia-social.jpg
+title-block-banner: true
+page-layout: full
+
+listing:
+  - id: apuntes-curso
+    contents:
+      - "*.qmd"
+      - "!index.qmd"
+    type: table
+    sort: "date desc"
+    fields: [title, author, date, description]
+    filter-ui: true
+    sort-ui: true
+---
+
+### Apuntes del curso
+::: {#apuntes-curso}
+:::
