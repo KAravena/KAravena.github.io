@@ -29,15 +29,15 @@ En Apuntes puedes buscar y filtrar por año, semestre o curso. Cada nota trae t�
 Los apuntes representan el corazón del repositorio. La idea es que cada apunte quede referenciado de forma adecuada (apa 7) como parte de la memoria y construcción de una comunidad transparente y colaborativa. El formato lo define quien aporta, puede ser una presentación de ayudantías, apuntes de textos, resúmenes de clases, preparación de evaluaciones,etc.  Valoramos la diversidad de estilos y la voz propia. Lo importante es que el apunte sea útil y legible.
 </div>
 
-# ¿Quieres aportar?
+# ¿Quieres aportar? {#aporte}
 
 <div class="justificar">
-Este espacio crece con los aportes de la comunidad de sociología, puedes hacerlo así:
+  Este espacio crece con los aportes de la comunidad de sociología, puedes hacerlo de 2 formas:
 
-- Subiendo tu archivo mediante el formulario del repositorio (Google Forms):
+ Subiendo tu archivo mediante el formulario del repositorio (Google Forms):
 
 
-    [Abrir formulario de aportes](https://forms.gle/WTuiENRJ61gJbwEB6){.btn-cta target=_blank rel=noopener}
+ [Abrir formulario de aportes](https://forms.gle/WTuiENRJ61gJbwEB6){.btn-cta target=_blank rel=noopener}
 
 
 - En la carpeta **Drive** del repositorio. Esta carpeta cuenta con un archivo Excel para completar la información de los colaboradores en la pestaña Comunidad de la página, ademas en esta opcion, es necesario que completes de forma **manual**  los datos del apunte. 
@@ -51,7 +51,7 @@ Este espacio crece con los aportes de la comunidad de sociología, puedes hacerl
           Por ejemplo: FilosofíaSocial_2022_prueba1_Aravena_Katherine.pdf
 
 
-      [Abrir Drive]((https://drive.google.com/drive/folders/1TkWgnE7F0SC4_pjIN6dK57W-HJyZIvRe?usp=sharing)){.btn-cta target=_blank rel=noopener}
+  [Abrir Drive](https://drive.google.com/drive/folders/1TkWgnE7F0SC4_pjIN6dK57W-HJyZIvRe?usp=sharing){.btn-cta target=_blank rel=noopener}
 
 
 

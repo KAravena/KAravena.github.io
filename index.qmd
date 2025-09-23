@@ -30,7 +30,6 @@ Centralizamos **apuntes y materiales** curados por **año**, **semestre** y **cu
 :::
 
 
-
 ## Destacados {#destacados}
 
 ::: {.features-grid}
@@ -50,7 +49,7 @@ Estructura libre: se brindan **resumenes**, **síntesis** y enlaces a más mater
 <div class="ico">🤝</div>
 ### ¿Quieres aportar?
 Comparte tu archivo mediante un **formulario** o el **drive** del repositorio.  
-[Cómo aportar](about.qmd)
+[Cómo aportar](about.qmd#apote)
 :::
 :::
 

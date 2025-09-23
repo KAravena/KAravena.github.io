@@ -22,6 +22,8 @@ website:
         href: index.qmd#Año
       - text: "Información"
         href: about.qmd
+      - text: ¿Quieres aportar?
+        href: about.qmd#aporte
 
     
     tools:
