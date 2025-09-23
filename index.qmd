@@ -25,12 +25,11 @@ Centralizamos **apuntes y materiales** curados por **año**, **semestre** y **cu
 **Aprender es colectivo, Sociología que se teje en comunidad.**
 
 [Ver Apuntes](cursos/cursos.qmd){.btn .btn-primario .btn-lg}
-[Todos](apuntes/apuntes.qmd){.btn .btn-secundario .btn-lg}
 [About](about.qmd){.btn .btn-borde .btn-lg}
 :::
 
 
-## Destacados {#destacados}
+## Destacados {#destacados}  
 
 ::: {.features-grid}
 ::: {.feature-tile}
@@ -49,7 +48,7 @@ Estructura libre: se brindan **resumenes**, **síntesis** y enlaces a más mater
 <div class="ico">🤝</div>
 ### ¿Quieres aportar?
 Comparte tu archivo mediante un **formulario** o el **drive** del repositorio.  
-[Cómo aportar](about.qmd#apote)
+[Cómo aportar](about.qmd#aporte)
 :::
 :::
 

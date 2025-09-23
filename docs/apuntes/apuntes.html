@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../resources/imagenes/logo.svg" rel="icon" type="image/svg+xml">
 <script src="../site_libs/quarto-listing/list.min.js"></script>
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
@@ -334,7 +335,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../cursos.qmd"> 
+    <a class="nav-link" href="../cursos/cursos.html"> 
 <span class="menu-text">Cursos</span></a>
   </li>  
   <li class="nav-item">
@@ -342,17 +343,21 @@ window.Quarto = {
 <span class="menu-text">Destacados</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../index.html#malla"> 
-<span class="menu-text">Año</span></a>
+    <a class="nav-link" href="../index.html#Año"> 
+<span class="menu-text">Apuntes por año</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../index.html#ultimos"> 
-<span class="menu-text">Últimos</span></a>
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">Información</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html#aporte"> 
+<span class="menu-text">¿Quieres aportar?</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
-    <a href="https://github.com/KAravena/Archivo-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/KAravena/Repositorio-Sociologia-UChile" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
     <a href="javascript:void(0)" title="<i class='bi bi-moon-stars'></i>" class="quarto-navigation-tool px-1" aria-label="Cambiar tema"><i class="bi bi-"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -494,7 +499,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/karavena\.github\.io\/Archivo-Sociologia-UChile\/");
+        var filterRegex = new RegExp("https:\/\/apuntes-sociologia\.me");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -508,11 +513,6 @@ window.Quarto = {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
-            // target, if specified
-            link.setAttribute("target", "_blank");
-            if (link.getAttribute("rel") === null) {
-              link.setAttribute("rel", "noopener");
-            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
