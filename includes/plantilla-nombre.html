@@ -1,0 +1,129 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const anchor = document.getElementById('plantilla-anchor');
+  const widget = document.getElementById('plantilla-apuntes');
+  if (anchor && widget) anchor.replaceWith(widget);
+});
+</script>
+
+<style>
+  .box-plantilla{border:1px solid #ddd;border-radius:12px;padding:16px;background:#fafafa}
+  .box-plantilla .row{display:grid;grid-template-columns:1fr;gap:12px}
+  .box-plantilla label{font-size:.95rem;font-weight:600}
+  .box-plantilla select,.box-plantilla input{width:100%;padding:8px 10px;border:1px solid #ccc;border-radius:8px;font-size:.95rem}
+  .plantilla-output{font-family:ui-monospace,Menlo,Consolas,monospace;background:#fff;border:1px dashed #bbb;border-radius:8px;padding:10px;overflow-x:auto}
+  .btns{display:flex;gap:10px;flex-wrap:wrap}
+  .btn{appearance:none;border:1px solid #0d6efd;background:#0d6efd;color:#fff;padding:8px 12px;border-radius:8px;cursor:pointer;font-size:.95rem}
+  .btn.secondary{border-color:#6c757d;background:#6c757d}
+  details.accordion>summary{list-style:none;cursor:pointer;font-weight:700;display:flex;gap:8px;margin-bottom:10px;font-size:1.05rem}
+  details.accordion>summary::before{content:"▸";transition:transform .2s}
+  details[open].accordion>summary::before{transform:rotate(90deg)}
+  .ayuda{color:#555;font-size:.9rem}
+  /* === FIX de contraste para temas claros/oscuros === */
+:root{
+  /* toma variables de Quarto/Bootstrap si existen, con fallback */
+  --qp-text: var(--bs-body-color, #222);
+  --qp-bg:   var(--bs-body-bg, #fff);
+  --qp-muted: #555;
+}
+
+#plantilla-apuntes,
+#plantilla-apuntes *:not(.btn){
+  color: var(--qp-text) !important;
+}
+
+#plantilla-apuntes .box-plantilla{
+  background: var(--qp-bg);
+}
+
+#plantilla-apuntes select,
+#plantilla-apuntes input{
+  background: var(--qp-bg);
+  color: var(--qp-text) !important;
+}
+
+/* Opciones del <select> (algunos navegadores limitan estilos, pero color/bg funciona) */
+#plantilla-apuntes select option{
+  background: var(--qp-bg);
+  color: var(--qp-text);
+}
+
+/* Placeholders legibles */
+#plantilla-apuntes input::placeholder{
+  color: var(--qp-muted);
+  opacity: .9;
+}
+
+/* Texto de ayuda */
+#plantilla-apuntes .ayuda{
+  color: var(--qp-muted) !important;
+}
+
+</style>
+
+<section class="box-plantilla" id="plantilla-apuntes">
+  <details class="accordion" open>
+    <summary>Plantilla de nombre de archivo por Ramo(clic para desplegar)</summary>
+
+    <div class="row">
+      <div>
+        <label for="ramoSelect">Ramo</label>
+        <select id="ramoSelect" required>
+          <option value="" selected disabled>Selecciona un ramo…</option>
+        </select>
+        <div class="ayuda">Usaremos el ramo como prefijo del archivo; el resto queda como “AAAA_TEMA_APELLIDO_NOMBRE”.</div>
+      </div>
+
+      <div>
+        <label>Nombre sugerido</label>
+        <div id="plantillaPreview" class="plantilla-output">—</div>
+      </div>
+
+      <div class="btns">
+        <button class="btn" id="copiarNombre">Copiar nombre</button>
+      </div>
+    </div>
+
+    <p class="ayuda" style="margin-top:12px;">
+      Formato: <code>[Ramo]_[Año]_[Tema]_[Apellido_Nombre].pdf</code><br>
+      Ej.: <code>teoria_sociologica_clasica_2025_control_1_Orquera_Juan.pdf</code>
+    </p>
+  </details>
+</section>
+
+<script>
+  const RAMOS = [
+    "Filosofía Social","Historia de la sociedad moderna","Introducción a la Sociología","Antropología","Psicología social","Epistemología","Diseño de investigación","Población y Sociedad","Economía","Estadística descriptiva","Estadística correlacional","Estrategias de investigación cuantitativa","Historia social de América Latina","Historia Social de Chile","Teoría sociológica clásica","Teorías sociológicas de la sociedad moderna","Teorías sociológicas contemporáneas","Análisis de información cualitativa","Estrategias de investigación cualitativa","Desigualdades y estratificación social","Teoría y sociedad latinoamericana","Sociología Política","Sociología de la cultura","Sociología económica","Sociología del Género","Sociología de las organizaciones","Sociología de las Políticas Públicas","Estadística multivariada","Investigación evaluativa","Transformaciones Sociales del Chile Contemporáneo"
+  ];
+  const stripAccents = s => (s||"").normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+  const slugify = s => stripAccents(String(s).toLowerCase()).replace(/[^\w\s-]/g,'').trim().replace(/\s+/g,'_').replace(/_+/g,'_');
+  const buildNombre = ramo => `${slugify(ramo)}_AAAA_Tema_Apellido_Nombre.pdf`;
+  function updatePreview(){
+    const ramo = document.getElementById('ramoSelect').value;
+    document.getElementById('plantillaPreview').textContent = ramo ? buildNombre(ramo) : '—';
+  }
+  async function copyText(text){
+    try{ await navigator.clipboard.writeText(text); alert("Nombre copiado ✅"); }
+    catch{ alert("Copia manual: " + text); }
+  }
+  (function init(){
+    const sel = document.getElementById('ramoSelect');
+    RAMOS.forEach(r=>{ const o=document.createElement('option'); o.value=r; o.textContent=r; sel.appendChild(o); });
+    sel.addEventListener('change', updatePreview); updatePreview();
+    document.getElementById('copiarNombre').addEventListener('click', e=>{
+      e.preventDefault();
+      const txt = document.getElementById('plantillaPreview').textContent;
+      if (txt==='—') return alert("Selecciona un ramo primero.");
+      copyText(txt);
+    });
+    document.getElementById('descargarVacio').addEventListener('click', e=>{
+      e.preventDefault();
+      const txt = document.getElementById('plantillaPreview').textContent;
+      if (txt==='—') return alert("Selecciona un ramo primero.");
+      const blob = new Blob([new Uint8Array()], {type:"application/pdf"});
+      const url = URL.createObjectURL(blob);
+      const a = Object.assign(document.createElement('a'), {href:url, download:txt});
+      document.body.appendChild(a); a.click(); setTimeout(()=>{URL.revokeObjectURL(url); a.remove();}, 0);
+    });
+  })();
+</script>

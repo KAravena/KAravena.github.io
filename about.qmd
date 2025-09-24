@@ -6,7 +6,10 @@ toc-depth: 6
 toc-float: true
 format:
   html:
+    sanitize: false  
     css: styles1.css
+    include-after-body:
+    - includes/plantilla-nombre.html
 ---
 
 # Información general
@@ -40,7 +43,7 @@ Los apuntes representan el corazón del repositorio. La idea es que cada apunte 
  [Abrir formulario de aportes](https://forms.gle/WTuiENRJ61gJbwEB6){.btn-cta target=_blank rel=noopener}
 
 
-- En la carpeta **Drive** del repositorio. Esta carpeta cuenta con un archivo Excel para completar la información de los colaboradores en la pestaña Comunidad de la página, ademas en esta opcion, es necesario que completes de forma **manual**  los datos del apunte. 
+- En la carpeta **Drive** del repositorio. Esta carpeta cuenta con un archivo Excel para completar la información de los colaboradores en la pestaña Comunidad de la página -proximamente-, Para completar los datos del archivo -despliega Plantilla de nombre de archivo por ramo- : 
 
 </div>
 
@@ -50,9 +53,11 @@ Los apuntes representan el corazón del repositorio. La idea es que cada apunte 
 
           Por ejemplo: FilosofíaSocial_2022_prueba1_Aravena_Katherine.pdf
 
-
   [Abrir Drive](https://drive.google.com/drive/folders/1TkWgnE7F0SC4_pjIN6dK57W-HJyZIvRe?usp=sharing){.btn-cta target=_blank rel=noopener}
 
+
+
+<div id="plantilla-anchor"></div>
 
 
 
